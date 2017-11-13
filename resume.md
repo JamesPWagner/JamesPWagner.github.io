@@ -23,14 +23,12 @@ Developed an extensive library of technical and nontechnical eLearning courses f
 * Various new product eLearning courses for technical sales and partners
 
 **ForgeRock**, March – May 2016, Curriculum Developer (contract)
-
 Developed instructor-led training for the ForgeRock Identity Management System, focusing on self-service, user interface customization, and workflow.
 * Wrote new courseware for admins on how to implement user self-service features such as registration, profile update, password reset, forgotten username, and other aspects of the ForgeRock Identity Management system.
 * Created lab guides and presentations for developers on rebranding the self-service UI using HTML5, CSS3, JavaScript, jQuery, and other web development tools.
 * Added new labs for developers on automated workflow design and deployment using the Activiti Designer Business Process Management tool.
 
 **BMC Software**, March 2014 – November 2015, Senior Information Developer
-
 Delivered an extensive portfolio of rich media and text-based content for BMC's Remedy Action Request System and IT Service Management Suite focusing on solution development, installation/upgrade, identity management, and IT Service Management solutions.
 * Created a library of technical videos focusing on a wide range of IT Service Management topics.
 * Developed and deployed BMC’s first HTML5/jQuery-based online tutorial system.
