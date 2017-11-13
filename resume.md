@@ -10,3 +10,14 @@ Senior eLearning developer and tech writer specializing in technical, customer, 
 * Deep knowledge of cloud and virtualization solutions including VMware, OpenStack, Kubernetes, and related technologies
 * Web development in JavaScript, HTML5/CSS3, jQuery, AngularJS, and others
 * MBA, General Management with Finance concentration
+
+## Experience
+<b>VMware Inc</b>, October 2016 – October 2017, eLearning Course Developer (contract)
+Developed an extensive library of technical and nontechnical eLearning courses for employees, partners, support, and customers focusing on the VMware cloud and automation platform.
+### Completed Projects
+* VMware Integrated OpenStack Fundamentals
+* VMware Operations and Automation Management for Technical Sales
+* VMware Hyper Converged Infrastructure
+* Video: What is Solution Selling?
+* Spotlight Presentation (live webcast): Transforming Security
+* Various new product eLearning courses for technical sales and partners
