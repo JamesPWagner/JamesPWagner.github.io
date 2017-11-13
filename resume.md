@@ -66,7 +66,7 @@ Supported Apple’s Unix-based product, A/UX, allowing the company to market pro
 * Enabled Apple sales engineers to provide technical and sales training worldwide.
 * Trained instructors nationally on supporting A/UX.
 
-##Education and Certifications
+## Education and Certifications
 **MBA, Finance Concentration**, San Jose State University, 1990. Program sponsored by Apple Inc. 
 **BA Journalism and Mass Communications**, San Jose State University, 1980
 
