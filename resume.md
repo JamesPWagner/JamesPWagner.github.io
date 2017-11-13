@@ -37,4 +37,20 @@ Delivered an extensive portfolio of rich media and text-based content for BMC's 
 * Developed and deployed BMC’s first HTML5/jQuery-based online tutorial system.
 * Published 100+ technical documents on topics including complex solution design, security, installation/upgrade, and problem resolution.
 
+**Hewlett-Packard Company**, 2007-2013, Global Field Enablement, HP Software Worldwide Sales
+
+Enabled HP’s internal and partner ecosystem to market, support, and deploy the Cloud and Automation Platform.
+* Delivered an extensive library of training manuals, lab guides, developer guides, and video-based self-paced training for HP’s Business Service Automation platform.
+* Created documentation, courseware and virtual lab environments for HP Software Education’s for-profit Datacenter Orchestration curriculum.
+* Provided ongoing consultation to partners, HP’s internal R&D departments, HP IT, and customers on complex cloud-based datacenter integrations.
+
+**Sun Microsystems**, 2001-2007, Educational Services Manager
+
+Led technical and sales training programs for the iPlanet suite of Java, e-commerce, and directory products. 
+* Designed and implemented Sun’s virtual instructor-led training (VILT) capability, enabling the company to market online learning.
+* Delivered technical curriculum for Java/J2EE, Directory, Application Server, and other products.
+* Led various sales training initiatives designed to accelerate server sales with an integrated e-commerce platform.
+
+
+
 
