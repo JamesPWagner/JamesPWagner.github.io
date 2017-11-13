@@ -53,6 +53,11 @@ Led technical and sales training programs for the iPlanet suite of Java, e-comme
 * Delivered technical curriculum for Java/J2EE, Directory, Application Server, and other products.
 * Led various sales training initiatives designed to accelerate server sales with an integrated e-commerce platform.
 
+**Netscape Communications**, 1995-2001, Principal Courseware Developer, E-Commerce
+Supported the industry’s first e-commerce products for publishing, payment, directory, application server, and secure web communications.
+* Developed courseware for the Netscape Publishing System, BillerXpert, Netscape Application Server, and other products.
+* Partnering with Netscape’s professional services group, supported early adopters of the e-commerce platform including Bank of America (Application Server), Los Angeles Times (Publishing), and many dotcoms.
+* Created the first comprehensive JavaScript curriculum (client and server-side), which proved to be very popular among developers.
 
 
 
