@@ -15,6 +15,7 @@ Senior eLearning developer and tech writer specializing in technical, customer, 
 **VMware Inc**, October 2016 – October 2017, eLearning Course Developer (contract)
 
 Developed an extensive library of technical and nontechnical eLearning courses for employees, partners, support, and customers focusing on the VMware cloud and automation platform.
+
 ### Completed Projects
 * VMware Integrated OpenStack Fundamentals
 * VMware Operations and Automation Management for Technical Sales
