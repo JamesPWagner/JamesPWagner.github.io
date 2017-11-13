@@ -59,5 +59,19 @@ Supported the industry’s first e-commerce products for publishing, payment, di
 * Partnering with Netscape’s professional services group, supported early adopters of the e-commerce platform including Bank of America (Application Server), Los Angeles Times (Publishing), and many dotcoms.
 * Created the first comprehensive JavaScript curriculum (client and server-side), which proved to be very popular among developers.
 
+**Apple Inc.**, 1987-1995, Courseware Program Manager
+
+Supported Apple’s Unix-based product, A/UX, allowing the company to market products to the Federal Government.
+* Responsible for sales and technical training for the A/UX product.
+* Enabled Apple sales engineers to provide technical and sales training worldwide.
+* Trained instructors nationally on supporting A/UX.
+
+##Education and Certifications
+**MBA, Finance Concentration**, San Jose State University, 1990. Program sponsored by Apple Inc. 
+**BA Journalism and Mass Communications**, San Jose State University, 1980
+
+**HP certifications**: 
+* Accredited Integration Specialist
+* Accredited Systems Engineer
 
 
