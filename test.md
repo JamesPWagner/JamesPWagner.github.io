@@ -1,5 +1,5 @@
 # This is a test
 
-(https://jamespwagner.github.io/OpenStack/story_html5.html "VMware Integrated OpenStack Fundamentals")
+[VMware Integrated OpenStack Fundamentals](https://jamespwagner.github.io/OpenStack/story_html5.html)
 
 <a href="https://jamespwagner.github.io/OpenStack/story_html5.html" target="_blank">VMware Integrated OpenStack Fundamentals</a>
