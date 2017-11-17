@@ -32,8 +32,8 @@ h3 {
 <a href="https://jamespwagner.github.io/Cloud_Provider/story_html5.html" target="_blank">Cloud Provider for Sales Professionals</a><br> 
 <b>Hyper-Converged Infrastructure Solutions Sales Training</b>
 <ul>
-<li><a href="https://jamespwagner.github.io/HCI_Solution_Overview" target="_blank">HCI Solution Overview</a></li>
-<li><a href="https://jamespwagner.github.io/HCI_Applying_Exercise" target="_blank">HCI Applying Solutions Exercise</a></li>
+<li><a href="https://jamespwagner.github.io/HCI_Solution_Overview/story_html5.html" target="_blank">HCI Solution Overview</a></li>
+<li><a href="https://jamespwagner.github.io/HCI_Applying_Exercise/story_html5.html" target="_blank">HCI Applying Solutions Exercise</a></li>
 </ul>
 </td>
 </tr>
