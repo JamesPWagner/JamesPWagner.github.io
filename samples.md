@@ -5,10 +5,10 @@
 ## eLearning
 <table border="0">
 <tr>
-<td>
+<td valign="top">
 <img src="https://jamespwagner.github.io/images/lightbulb2.png" height="100" width="100">
 </td>
-<td align="top">
+<td valign="top">
 <a href="https://jamespwagner.github.io/OpenStack/story_html5.html" target="_blank">VMware Integrated OpenStack Fundamentals</a>
 </td>
 </tr>
