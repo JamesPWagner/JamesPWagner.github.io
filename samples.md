@@ -2,7 +2,7 @@
 
 table, td 
 	{
-	0px;
+	border: 0px;
 	}
 
 </style>
