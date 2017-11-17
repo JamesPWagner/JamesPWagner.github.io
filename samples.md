@@ -1,9 +1,18 @@
 <style>
 
-table, td 
-	{
-	border: 0px;
-	}
+table, td, th {
+    border: 0px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    height: 100px;
+    vertical-align: top;
+}
 
 </style>
 
@@ -13,7 +22,7 @@ table, td
 
 ## eLearning
 
-<table border="0">
+<table>
 <tr>
 <td>
 <img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
