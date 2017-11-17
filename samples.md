@@ -1,6 +1,9 @@
 <style>
 
-table, tr, td {0px}
+table, td 
+	{
+	0px;
+	}
 
 </style>
 
