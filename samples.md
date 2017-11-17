@@ -20,7 +20,7 @@ td {
 
 [VMware Integrated OpenStack Fundamentals](https://jamespwagner.github.io/OpenStack/story_html5.html)
 
-## eLearning
+### eLearning
 
 <table>
 <tr>
