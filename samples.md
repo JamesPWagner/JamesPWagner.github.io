@@ -28,7 +28,7 @@ td {
 <img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
 </td>
 <td>
-[VMware Integrated OpenStack Fundamentals](https://jamespwagner.github.io/OpenStack/story_html5.html)
+<a href="https://jamespwagner.github.io/OpenStack/story_html5.html">VMware Integrated OpenStack Fundamentals</a> 
 </td>
 </tr>
 </table>
