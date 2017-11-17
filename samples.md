@@ -25,7 +25,7 @@ td {
 <table>
 <tr>
 <td style="width:110px">
-<img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
+<img src="https://jamespwagner.github.io/images/lightbulb2.png" height="100" width="100">
 </td>
 <td>
 <a href="https://jamespwagner.github.io/OpenStack/story_html5.html">VMware Integrated OpenStack Fundamentals</a> 
@@ -33,4 +33,17 @@ td {
 </tr>
 </table>
 
-<!--img src="https://jamespwagner.github.io/images/book.png" height="100" width="100"-->
+### Docs
+
+<table>
+<tr>
+<td style="width:110px">
+<img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
+</td>
+<td>
+<p><a href="https://docs.bmc.com/docs/display/itsm90/Foundation+data+onboarding+videos+and+tutorial">Foundation Data Onboarding Tutorial</a> 
+<p><a href="https://docs.bmc.com/docs/display/public/ars9000/WhiteHat+Sentinel+PE+security+penetration+testing">Whitehat Sentinel PE Security Testing</a> 
+<p><a href="https://docs.bmc.com/docs/display/itsm81/Loading+Foundation+data+for+multiple+companies">Onboarding Foundation for Multiple Companies</a> 
+</td>
+</tr>
+</table>
