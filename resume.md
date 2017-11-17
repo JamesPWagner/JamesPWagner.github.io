@@ -1,8 +1,8 @@
 ## Contact
 Email jwagnerfamily@gmail.com<br>
 View my profile on 
-<a href="https://www.linkedin.com/in/jwagner6/" target="new">LinkedIn</a>
-[eLearning, technical documentation, and video samples](https://jamespwagner.github.io/samples)
+<a href="https://www.linkedin.com/in/jwagner6/" target="_blank">LinkedIn</a><br>
+<a href="https://jamespwagner.github.io/samples/" target="_blank">eLearning, technical documentation, and video samples</a>
 
 ## Summary
 Senior eLearning developer and program manager specializing in technical, customer, sales, and partner enablement focusing on complex cloud, virtualization, and datacenter orchestration technologies.
