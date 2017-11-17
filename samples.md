@@ -40,8 +40,7 @@ td {
 <td style="width:110px">
 <img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
 </td>
-<td>### Docs</td>
-<td>
+<td> ### Docs
 <p><a href="https://docs.bmc.com/docs/display/itsm90/Foundation+data+onboarding+videos+and+tutorial">Foundation Data Onboarding Tutorial</a></p> 
 <p><a href="https://docs.bmc.com/docs/display/public/ars9000/WhiteHat+Sentinel+PE+security+penetration+testing">Whitehat Sentinel PE Security Testing</a></p> 
 <p><a href="https://docs.bmc.com/docs/display/itsm81/Loading+Foundation+data+for+multiple+companies">Onboarding Foundation Data for Multiple Companies</a></p>
