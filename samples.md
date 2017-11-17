@@ -25,12 +25,38 @@ h3 {
 <table>
 <tr>
 <td style="width:105px">
+<img src="https://jamespwagner.github.io/images/lightbulb2.png" height="100" width="100">
+</td>
+<td><h3>eLearning</h3>
+<a href="https://jamespwagner.github.io/OpenStack/story_html5.html" target="_blank">VMware Integrated OpenStack Fundamentals</a><br> 
+<a href="URL" target="_blank">Title</a><br> 
+<a href="URL" target="_blank">Title</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:105px">
 <img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
 </td>
 <td><h3>Docs</h3>
 <a href="https://docs.bmc.com/docs/display/itsm90/Foundation+data+onboarding+videos+and+tutorial" target="_blank">Foundation Data Onboarding Tutorial</a><br> 
-<a href="https://docs.bmc.com/docs/display/public/ars9000/WhiteHat+Sentinel+PE+security+penetration+testing">Whitehat Sentinel PE Security Testing</a><br> 
-<a href="https://docs.bmc.com/docs/display/itsm81/Loading+Foundation+data+for+multiple+companies">Onboarding Foundation Data for Multiple Companies</a>
+<a href="https://docs.bmc.com/docs/display/public/ars9000/WhiteHat+Sentinel+PE+security+penetration+testing" target="_blank">Whitehat Sentinel PE Security Testing</a><br> 
+<a href="https://docs.bmc.com/docs/display/itsm81/Loading+Foundation+data+for+multiple+companies" target="_blank">Onboarding Foundation Data for Multiple Companies</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:105px">
+<img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
+</td>
+<td><h3>Video</h3>
+<a href="URL" target="_blank">Title</a><br> 
+<a href="https://docs.bmc.com/docs/display/public/ars9000/WhiteHat+Sentinel+PE+security+penetration+testing" target="_blank">Whitehat Sentinel PE Security Testing</a><br> 
+<a href="https://docs.bmc.com/docs/display/itsm81/Loading+Foundation+data+for+multiple+companies" target="_blank">Onboarding Foundation Data for Multiple Companies</a>
 </td>
 </tr>
 </table>
