@@ -31,8 +31,10 @@ h3 {
 <a href="https://jamespwagner.github.io/OpenStack/story_html5.html" target="_blank">VMware Integrated OpenStack Fundamentals</a><br> 
 <a href="https://jamespwagner.github.io/Cloud_Provider/story_html5.html" target="_blank">Cloud Provider for Sales Professionals</a><br> 
 Hyper-Converged Infrastructure Solutions Sales Training
-* <a href="URL" target="_blank">HCI Solution Overview</a>
-* <a href="URL" target="_blank">HCI Applying Solutions Exercise</a>
+<ul>
+<li><a href="URL" target="_blank">HCI Solution Overview</a>
+<li><a href="URL" target="_blank">HCI Applying Solutions Exercise</a>
+</ul>
 </td>
 </tr>
 </table>
