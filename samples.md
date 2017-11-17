@@ -3,7 +3,7 @@
 [VMware Integrated OpenStack Fundamentals](https://jamespwagner.github.io/OpenStack/story_html5.html)
 
 ## eLearning
-<table>
+<table border="0" text-align="top">
 <tr>
 <td>
 <img src="https://jamespwagner.github.io/images/lightbulb2.png" height="100" width="100">
