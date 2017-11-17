@@ -51,7 +51,7 @@ h3 {
 <table>
 <tr>
 <td style="width:105px">
-<img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
+<img src="https://jamespwagner.github.io/images/video.png" height="100" width="100">
 </td>
 <td><h3>Video</h3>
 <a href="URL" target="_blank">Title</a><br> 
