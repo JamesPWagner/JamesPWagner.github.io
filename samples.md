@@ -24,11 +24,11 @@ td {
 
 <table>
 <tr>
-<td>
+<td style="width:110px">
 <img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
 </td>
 <td>
-This is a test
+[VMware Integrated OpenStack Fundamentals](https://jamespwagner.github.io/OpenStack/story_html5.html)
 </td>
 </tr>
 </table>
