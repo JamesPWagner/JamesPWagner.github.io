@@ -11,6 +11,8 @@ Senior eLearning developer and program manager specializing in technical, custom
 * Web development in JavaScript, HTML5/CSS3, jQuery, AngularJS, and others
 * MBA, General Management with Finance concentration
 
+[eLearning, technical documentation, and video samples](https://jamespwagner.github.io/samples)
+
 ## Experience
 **VMware Inc**, October 2016 – October 2017, eLearning Course Developer (contract)
 
