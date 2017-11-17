@@ -7,7 +7,7 @@
 <table border="0">
 <tr>
 <td>
-<img src="./book.png" height="100" width="100">
+<img src="https://jamespwagner.github.io/samples/book.png" height="100" width="100">
 </td>
 <td valign="top">
 This is a test
