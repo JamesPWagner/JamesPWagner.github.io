@@ -20,7 +20,7 @@ h3 {
 
 </style>
 
-# eLearning and Technical Documentation Samples
+# eLearning, Technical Documentation, and Video Samples
 
 Representative eLearning, documentation, and video samples from VMware, Hewlett-Packard, and BMC Software.
 
