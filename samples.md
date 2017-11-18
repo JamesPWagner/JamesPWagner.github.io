@@ -22,6 +22,8 @@ h3 {
 
 # eLearning and Technical Documentation Samples
 
+Here are some eLearning, documentation, and video samples from VMware, Hewlett-Packard, and BMC Software. I did the full design, development, and production on all of these projects, except for the audio voiceover in the eLearning courses.
+
 <table>
 <tr>
 <td style="width:105px">
@@ -45,6 +47,8 @@ h3 {
 <img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
 </td>
 <td><h3>Docs</h3>
+<a href="https://docs.bmc.com/docs/display/public/ars9000/Enabling+FTS+high+availability" target="_blank">Enabling FTS High Availability - BMC Remedy AR System</a><br> 
+<a href="https://docs.bmc.com/docs/display/smartIT13/Creating+and+managing+problem+investigations+in+Smart+IT" target="_blank">Creating and Managing Investigations in Smart IT</a><br> 
 <a href="https://docs.bmc.com/docs/display/itsm90/Foundation+data+onboarding+videos+and+tutorial" target="_blank">Foundation Data Onboarding Tutorial</a><br> 
 <a href="https://docs.bmc.com/docs/display/public/ars9000/WhiteHat+Sentinel+PE+security+penetration+testing" target="_blank">Whitehat Sentinel PE Security Testing</a><br> 
 <a href="https://docs.bmc.com/docs/display/itsm81/Loading+Foundation+data+for+multiple+companies" target="_blank">Onboarding Foundation Data for Multiple Companies</a>
@@ -58,8 +62,9 @@ h3 {
 <img src="https://jamespwagner.github.io/images/video.png" height="100" width="100">
 </td>
 <td><h3>Video</h3>
-<a href="https://www.youtube.com/watch?v=E4v0X2SimKY" target="_blank">Introduction to the Association Server Object - BMC Remedy AR System</a><br>
 <a href="https://www.youtube.com/watch?v=NyUR9BUv1Bs" target="_blank">Full-Text Search HA for Server Groups - BMC Remedy AR System</a><br>
+<a href="https://www.youtube.com/watch?v=E4v0X2SimKY" target="_blank">Introduction to the Association Server Object - BMC Remedy AR System</a><br>
+<a href="https://www.youtube.com/watch?v=E4v0X2SimKY" target="_blank">Introduction to the Association Server Object - BMC Remedy AR System</a><br>
 <a href="https://www.youtube.com/watch?v=aMCSqEA4FcQ" target="_blank">Performing a Platform Upgrade - BMC Remedy ITSM</a><br>
 <a href="https://www.youtube.com/watch?v=IoUbUiaDmqU" target="_blank">Performing a Suite Upgrade - BMC Remedy ITSM</a><br>
 <a href="https://www.youtube.com/watch?v=-3D74z-wlQY" target="_blank">BMC Remedy Interactive Upgrade Tool</a><br>
