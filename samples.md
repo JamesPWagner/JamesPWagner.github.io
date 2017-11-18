@@ -59,6 +59,8 @@ h3 {
 </td>
 <td><h3>Video</h3>
 <a href="https://www.youtube.com/watch?v=E4v0X2SimKY" target="_blank">Introduction to the Association Server Object</a><br>
+<a href="https://www.youtube.com/watch?v=###########" target="_blank">Title</a><br>
+<a href="https://www.youtube.com/watch?v=###########" target="_blank">Title</a><br>
 </td>
 </tr>
 </table>
