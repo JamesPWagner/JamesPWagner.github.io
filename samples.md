@@ -58,7 +58,7 @@ h3 {
 <img src="https://jamespwagner.github.io/images/video.png" height="100" width="100">
 </td>
 <td><h3>Video</h3>
-<a href="https://www.youtube.com/watch?v=E4v0X2SimKY" target="_blank"><img src="https://www.youtube.com/watch?v=E4v0X2SimKY/0.jpg" alt="Intro to the Association Server Object" width="240" height="180" border="10" />Introduction to the Association Server Object</a> 
+<a href="https://www.youtube.com/watch?v=E4v0X2SimKY" target="_blank">Introduction to the Association Server Object</a><br>
 </td>
 </tr>
 </table>
