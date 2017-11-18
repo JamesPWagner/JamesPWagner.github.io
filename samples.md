@@ -22,7 +22,7 @@ h3 {
 
 # eLearning and Technical Documentation Samples
 
-Here are some eLearning, documentation, and video samples from VMware, Hewlett-Packard, and BMC Software. I did the full design, development, and production on all of these projects, except for the audio voiceover in the eLearning courses.
+Representative eLearning, documentation, and video samples from VMware, Hewlett-Packard, and BMC Software.
 
 <table>
 <tr>
