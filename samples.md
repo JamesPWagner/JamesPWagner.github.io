@@ -22,7 +22,7 @@ h3 {
 
 # eLearning, Technical Documentation, and Video Samples
 
-Representative eLearning, documentation, and video samples from VMware, Hewlett-Packard, and BMC Software.
+Representative samples from VMware, Hewlett-Packard, and BMC Software.
 
 <table>
 <tr>
