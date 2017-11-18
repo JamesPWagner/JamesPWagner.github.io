@@ -58,9 +58,11 @@ h3 {
 <img src="https://jamespwagner.github.io/images/video.png" height="100" width="100">
 </td>
 <td><h3>Video</h3>
-<a href="https://www.youtube.com/watch?v=E4v0X2SimKY" target="_blank">Introduction to the Association Server Object</a><br>
-<a href="https://www.youtube.com/watch?v=###########" target="_blank">Title</a><br>
-<a href="https://www.youtube.com/watch?v=###########" target="_blank">Title</a><br>
+<a href="https://www.youtube.com/watch?v=E4v0X2SimKY" target="_blank">Introduction to the Association Server Object - BMC Remedy AR System</a><br>
+<a href="https://www.youtube.com/watch?v=NyUR9BUv1Bs" target="_blank">Full-Text Search HA for Server Groups - BMC Remedy AR System</a><br>
+<a href="https://www.youtube.com/watch?v=aMCSqEA4FcQ" target="_blank">Performing a Platform Upgrade - BMC Remedy ITSM</a><br>
+<a href="https://www.youtube.com/watch?v=IoUbUiaDmqU" target="_blank">Performing a Suite Upgrade - BMC Remedy ITSM</a><br>
+<a href="https://www.youtube.com/watch?v=-3D74z-wlQY" target="_blank">BMC Remedy Interactive Upgrade Tool</a><br>
 </td>
 </tr>
 </table>
