@@ -3,12 +3,13 @@ Email jwagnerfamily@gmail.com<br>
 View my profile on 
 <a href="https://www.linkedin.com/in/jwagner6/" target="_blank">LinkedIn</a><br>
 <a href="https://jamespwagner.github.io/samples" target="_blank">eLearning, Technical Documentation, and Video Samples</a>
+<a href="https://jamespwagner.github.io/James_Wagner_Resume.docx">Resume in Word format</a>
 
 ## Summary
 Senior eLearning developer, tech writer, and program manager specializing in technical, customer, sales, and partner enablement for complex cloud, virtualization, and datacenter orchestration technologies.
 * Interactive eLearning, video, and hands-on lab development
 * Media development tools including Articulate Storyline, Camtasia, Adobe Captivate and others
-* Deep knowledge of cloud and virtualization solutions including VMware, OpenStack, Kubernetes, and related technologies
+* Deep knowledge of cloud and virtualization solutions including VMware, OpenStack, Kubernetes, IaaS/PaaS/SaaS/XaaS and related technologies
 * Web development in JavaScript, HTML5/CSS3, jQuery, AngularJS, and others
 * MBA, General Management with Finance concentration
 
