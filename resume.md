@@ -29,7 +29,7 @@ Developed an extensive library of technical and nontechnical eLearning courses f
 
 **ForgeRock**, March – May 2016, Curriculum Developer (contract)
 
-Developed instructor-led training for the ForgeRock Identity Management System, focusing on self-service, user interface customization, and workflow.
+Developed instructor-led training for the ForgeRock Identity Platform, focusing on self-service, user interface customization, and workflow.
 * Wrote new courseware for admins on how to implement user self-service features such as registration, profile update, password reset, forgotten username, and other aspects of the ForgeRock Identity Management system.
 * Created lab guides and presentations for developers on rebranding the self-service UI using HTML5, CSS3, JavaScript, jQuery, and other web development tools.
 * Added new labs for developers on automated workflow design and deployment using the Activiti Designer Business Process Management tool.
@@ -56,6 +56,7 @@ Led technical and sales training programs for the iPlanet suite of Java, e-comme
 * Led various sales training initiatives designed to accelerate server sales with an integrated e-commerce platform.
 
 **Netscape Communications**, 1995-2001, Principal Courseware Developer, E-Commerce
+
 Supported the industry’s first e-commerce products for publishing, payment, directory, application server, and secure web communications.
 * Developed courseware for the Netscape Publishing System, BillerXpert, Netscape Application Server, and other products.
 * Partnering with Netscape’s professional services group, supported early adopters of the e-commerce platform including Bank of America (Application Server), Los Angeles Times (Publishing), and many dotcoms.
