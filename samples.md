@@ -62,7 +62,7 @@ Representative samples from VMware, Hewlett-Packard, and BMC Software.
 <img src="https://jamespwagner.github.io/images/video.png" height="100" width="100">
 </td>
 <td><h3>Video</h3>
-<a href="https://youtu.be/E4wvx25AYX8" target="_blank">VMware: What is Solution Selling?</a>
+<a href="https://youtu.be/E4wvx25AYX8" target="_blank">VMware: What is Solution Selling?</a><br>
 <a href="https://www.youtube.com/watch?v=NyUR9BUv1Bs" target="_blank">Full-Text Search HA for Server Groups - BMC Remedy AR System</a><br>
 <a href="https://www.youtube.com/watch?v=E4v0X2SimKY" target="_blank">Introduction to the Association Server Object - BMC Remedy AR System</a><br>
 <a href="https://www.youtube.com/watch?v=aMCSqEA4FcQ" target="_blank">Performing a Platform Upgrade - BMC Remedy ITSM</a><br>
