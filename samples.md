@@ -47,6 +47,7 @@ Representative samples from VMware, Hewlett-Packard, and BMC Software.
 <img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
 </td>
 <td><h3>Docs</h3>
+<a href="https://jamespwagner.github.io/hp_adv_auth.html" target="_blank">HP Operations Orchestration Advanced Authoring Lab Guide</a><br> 
 <a href="https://docs.bmc.com/docs/display/public/ars9000/Enabling+FTS+high+availability" target="_blank">Enabling FTS High Availability - BMC Remedy AR System</a><br> 
 <a href="https://docs.bmc.com/docs/display/smartIT13/Creating+and+managing+problem+investigations+in+Smart+IT" target="_blank">Creating and Managing Investigations in Smart IT</a><br> 
 <a href="https://docs.bmc.com/docs/display/itsm90/Foundation+data+onboarding+videos+and+tutorial" target="_blank">Foundation Data Onboarding Tutorial</a><br> 
