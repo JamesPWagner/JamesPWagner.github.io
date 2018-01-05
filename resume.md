@@ -12,6 +12,7 @@ Senior eLearning developer, tech writer, and program manager specializing in tec
 * Media development tools including Articulate Storyline, Camtasia, Adobe Captivate and others
 * Deep knowledge of cloud and virtualization solutions including VMware, OpenStack, Kubernetes, IaaS/PaaS/SaaS/XaaS and related technologies
 * Web development in JavaScript, HTML5/CSS3, jQuery, AngularJS, and others
+* Virtual lab development and maintenance
 * MBA, General Management with Finance concentration
 
 ## Experience
