@@ -42,16 +42,6 @@ Representative samples from VMware, Oracle, and Hewlett-Packard.
 <table>
 <tr>
 <td style="width:105px">
-<img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
-</td>
-<td><h3>Docs</h3>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td style="width:105px">
 <img src="https://jamespwagner.github.io/images/video.png" height="100" width="100">
 </td>
 <td><h3>Video</h3>
