@@ -24,7 +24,6 @@ h3 {
 ## eLearning, Technical Documentation, and Video Samples
 
 Representative samples from VMware, Oracle, and Hewlett-Packard.
-
 <table>
 <tr>
 <td style="width:105px">
@@ -35,6 +34,18 @@ Representative samples from VMware, Oracle, and Hewlett-Packard.
 <a href="https://jamespwagner.github.io/vSAN/VSANMT_M1/story_html5.html" target="_blank">Module 1</a><br>
 <a href="https://jamespwagner.github.io/vSAN/VSANMT_M1/story_html5.html" target="_blank">Module 2</a><br> 
 <a href="https://jamespwagner.github.io/vSAN/VSANMT_M1/story_html5.html" target="_blank">Module 3</a><br> 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:105px">
+<img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
+</td>
+<td><h3>Docs & Tutorials</h3>
+<a href="https://jamespwagner.github.io/hp_adv_auth_lg.html" target="_blank">HP Operations Orchestration Advanced Authoring Lab Guide</a><br> 
+<a href="https://jamespwagner.github.io/hp_adv_auth_sg.html" target="_blank">HP Operations Orchestration Advanced Authoring Student Guide</a><br> 
 </td>
 </tr>
 </table>
