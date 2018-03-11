@@ -21,7 +21,7 @@ h3 {
 </style>
 
 # Iris Li
-## eLearning, Technical Documentation, and Video Samples
+## eLearning, Tutorials, and Video Samples
 
 Representative samples from VMware, Oracle, and Hewlett-Packard.
 <table>
@@ -44,6 +44,9 @@ Representative samples from VMware, Oracle, and Hewlett-Packard.
 <img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
 </td>
 <td><h3>Docs & Tutorials</h3>
+<a href="http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/sscs/CreateStorageContainer/SOACS_prereq_storageContainers.html" target="_blank">Creating Storage Containers for Backups</a><br>
+<a href="http://www.oracle.com/webfolder/technetwork/tutorials/obe/fmw/wls/12c/12c_poster/poster.html" target="_blank">Oracle WebLogic Server 12c: Interactive Quick Reference</a><br> 
+
 </td>
 </tr>
 </table>
