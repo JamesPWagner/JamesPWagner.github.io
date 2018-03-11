@@ -32,7 +32,12 @@ Representative samples from VMware, Oracle, and Hewlett-Packard.
 <img src="https://jamespwagner.github.io/images/lightbulb2.png" height="100" width="100">
 </td>
 <td><h3>eLearning</h3>
-<a href="https://jamespwagner.github.io/vSAN/story_html5.html" target="_blank">VMware Integrated OpenStack Fundamentals</a><br> 
+vSAN Monitoring and Troubleshooting Data Availability
+<ul>
+<li><a href="https://jamespwagner.github.io/vSAN/VSANMT_M1/story_html5.html" target="_blank">Module 1</a>
+<li><a href="https://jamespwagner.github.io/vSAN/VSANMT_M1/story_html5.html" target="_blank">Module 2</a> 
+<li><a href="https://jamespwagner.github.io/vSAN/VSANMT_M1/story_html5.html" target="_blank">Module 3</a> 
+</ul>
 </td>
 </tr>
 </table>
