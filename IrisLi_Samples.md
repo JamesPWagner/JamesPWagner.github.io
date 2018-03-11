@@ -23,7 +23,7 @@ h3 {
 # Iris Li
 ## eLearning, Tutorials, and Video Samples
 
-Representative resentative samples from VMware, Oracle, and Hewlett-Packard.
+Representative samples from VMware, Oracle, and Hewlett-Packard.
 <table>
 <tr>
 <td style="width:105px">
