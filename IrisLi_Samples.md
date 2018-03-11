@@ -45,8 +45,8 @@ Representative samples from VMware, Oracle, and Hewlett-Packard.
 <img src="https://jamespwagner.github.io/images/video.png" height="100" width="100">
 </td>
 <td><h3>Video</h3>
-<a href="https://youtu.be/vjlrVkKVU2s" target="_blank">Oracle: Hybrid Cloud Integration With ICS Overview</a><br>
-<a href="https://youtu.be/nsbvR027GXY" target="_blank">Oracle: Installing and Using Agents for SaaS and On-Premises Integration</a><br>
+<a href="https://youtu.be/vjlrVkKVU2s" target="_blank">Hybrid Cloud Integration With ICS Overview</a><br>
+<a href="https://youtu.be/nsbvR027GXY" target="_blank">Installing and Using Agents for SaaS and On-Premises Integration</a><br>
 </td>
 </tr>
 </table>
