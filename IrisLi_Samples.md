@@ -31,9 +31,9 @@ Representative samples from VMware, Oracle, and Hewlett-Packard.
 </td>
 <td><h3>eLearning</h3>
 <b>vSAN Monitoring and Troubleshooting Data Availability</b><br>
-<a href="https://jamespwagner.github.io/vSAN/VSANMT_M1/story_html5.html" target="_blank">Module 1</a><br>
-<a href="https://jamespwagner.github.io/vSAN/VSANMT_M1/story_html5.html" target="_blank">Module 2</a><br> 
-<a href="https://jamespwagner.github.io/vSAN/VSANMT_M1/story_html5.html" target="_blank">Module 3</a><br> 
+<a href="https://jamespwagner.github.io/vSAN/VSANMT_M1/story_html5.html" target="_blank">Module 1: vSAN Data Availability Overview</a><br>
+<a href="https://jamespwagner.github.io/vSAN/VSANMT_M2/story_html5.html" target="_blank">Module 2: Monitoring and Troubleshooting Tools and Process</a><br> 
+<a href="https://jamespwagner.github.io/vSAN/VSANMT_M3/story_html5.html" target="_blank">Module 3: Troubleshooting Failure Scenarios</a><br> 
 </td>
 </tr>
 </table>
