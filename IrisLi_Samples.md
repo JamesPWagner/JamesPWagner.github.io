@@ -45,14 +45,8 @@ Representative samples from VMware, Oracle, and Hewlett-Packard.
 <img src="https://jamespwagner.github.io/images/video.png" height="100" width="100">
 </td>
 <td><h3>Video</h3>
-<a href="https://youtu.be/E4wvx25AYX8" target="_blank">VMware: What is Solution Selling?</a><br>
-<a href="https://youtu.be/EvJTrL6bHtk" target="_blank">VMware: What is VMware Integrated OpenStack?</a><br>
-<a href="https://youtu.be/MilaCjmDUfk" target="_blank">VMware: What is Kubernetes on VMware Integrated OpenStack?</a><br>
-<a href="https://www.youtube.com/watch?v=NyUR9BUv1Bs" target="_blank">Full-Text Search HA for Server Groups - BMC Remedy AR System</a><br>
-<a href="https://www.youtube.com/watch?v=E4v0X2SimKY" target="_blank">Introduction to the Association Server Object - BMC Remedy AR System</a><br>
-<a href="https://www.youtube.com/watch?v=aMCSqEA4FcQ" target="_blank">Performing a Platform Upgrade - BMC Remedy ITSM</a><br>
-<a href="https://www.youtube.com/watch?v=IoUbUiaDmqU" target="_blank">Performing a Suite Upgrade - BMC Remedy ITSM</a><br>
-<!--a href="https://www.youtube.com/watch?v=-3D74z-wlQY" target="_blank">BMC Remedy Interactive Upgrade Tool</a><br-->
+<a href="https://youtu.be/vjlrVkKVU2s" target="_blank">Oracle: Hybrid Cloud Integration With ICS Overview</a><br>
+<a href="https://youtu.be/nsbvR027GXY" target="_blank">Oracle: Installing and Using Agents for SaaS and On-Premises Integration</a><br>
 </td>
 </tr>
 </table>
