@@ -44,8 +44,6 @@ Representative samples from VMware, Oracle, and Hewlett-Packard.
 <img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
 </td>
 <td><h3>Docs & Tutorials</h3>
-<a href="https://jamespwagner.github.io/hp_adv_auth_lg.html" target="_blank">HP Operations Orchestration Advanced Authoring Lab Guide</a><br> 
-<a href="https://jamespwagner.github.io/hp_adv_auth_sg.html" target="_blank">HP Operations Orchestration Advanced Authoring Student Guide</a><br> 
 </td>
 </tr>
 </table>
