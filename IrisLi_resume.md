@@ -1,6 +1,6 @@
 
 # Iris Li
-## Contact - testing
+## Contact
 Email irismanli@yahoo.com<br>
 Phone (408) 569-9763<br>
 <a href="https://jamespwagner.github.io/IrisLi_Samples" target="_blank">eLearning, Technical Documentation, and Video Samples</a><br>
@@ -8,12 +8,14 @@ Phone (408) 569-9763<br>
 
 ## Summary
 Senior eLearning developer, tech writer, and program manager specializing in technical, customer, sales, and partner enablement for complex cloud, virtualization, and datacenter orchestration technologies.
-* Interactive eLearning, video, and hands-on lab development
-* Media development tools including Articulate Storyline, Camtasia, Adobe Captivate and others
-* Deep knowledge of cloud and virtualization solutions including VMware, OpenStack, Kubernetes, IaaS/PaaS/SaaS/XaaS and related technologies
-* Web development in JavaScript, HTML5/CSS3, jQuery, AngularJS, and others
-* Virtual lab development and maintenance
-* MBA, General Management with Finance concentration
+* Extensive experience in designing and developing ILT and eLearning courses
+* Strong instructional design and development background
+* Track record of successfully developing technical and technical sales courses
+* Demonstrated ability to identify and analyze problems and find creative solutions
+* Solid knowledge of web technologies and cloud computing
+* Good at creating visual components with a keen aesthetic sense 
+* Strong skills in prioritizing tasks to meet deadlines and achieving a high level of quality
+* Self-motivated learner, quick to embrace new concepts and technologies
 
 ## Experience
 **VMware Inc**, October 2016 – October 2017, eLearning Course Developer (contract)
