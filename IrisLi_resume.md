@@ -28,7 +28,7 @@ Phone (408) 569-9763<br>
 * VMware Operations and Automation Management for Technical Sales
 * VMware vSAN Fundamentals
 
-**ForgeRock**, March – May 2016, Curriculum Developer (contract)
+**Oracle Corporation	2009 – 2016	Senior Curriculum Developer**
 
 Developed instructor-led training for the ForgeRock Identity Platform, focusing on self-service, user interface customization, and workflow.
 * Wrote new courseware for admins on how to implement user self-service features such as registration, profile update, password reset, forgotten username, and other aspects of the ForgeRock Identity Management system.
