@@ -16,11 +16,11 @@ Phone (408) 569-9763<br>
 * Self-motivated learner, quick to embrace new concepts and technologies
 
 ## Experience
-### VMware Inc, Palo Alto, CA	2016 – 2018	Senior Curriculum Developer
+### VMware Inc, 2016 – 2018, Senior Curriculum Developer
 
 * Designed and developed technical selling eLearning courses to enable SEs and partners to whiteboard, demo, technically show value, and handle objections.
 * Led the effort from forming the idea to implementing the first paid elearning course
-* Created technical selling development guidelines for the elearning course developers
+* Created technical selling development guidelines for elearning course developers
 
 **Projects**
 
