@@ -86,6 +86,6 @@ Course Developer, contributed to multiple training initiatives:
 * **Tools**:  PowerPoint, Camtasia, Articulate Storyline, PhotoShop, Gimp, Audacity, Arbortext, Confluence, JIRA, Framemaker, Flash, Dreamweaver
 
 ## Education
-M.Ed., Instructional Technology, University of Nebraska-Lincoln
-B. E., Electronic Engineering, Beijing Information Science and Technology University, China
+* M.Ed., Instructional Technology, University of Nebraska-Lincoln
+* B. E., Electronic Engineering, Beijing Information Science and Technology University, China
 
