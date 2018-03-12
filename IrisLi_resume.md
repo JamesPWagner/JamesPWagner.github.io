@@ -2,8 +2,8 @@
 ### Contact
 Email irismanli@yahoo.com<br>
 Phone (408) 569-9763<br>
-<a href="https://jamespwagner.github.io/IrisLi_Samples" target="_blank">eLearning, Technical Documentation, and Video Samples</a><br>
-<a href="https://jamespwagner.github.io/Iris_Li_Resume.docx">Resume in Word format</a>
+<a href="https://jamespwagner.github.io/IrisLi_Samples" target="_blank">eLearning, Tutorials, and Video Samples</a><br>
+<a href="https://jamespwagner.github.io/Iris_Li_resume.docx">Resume in Word format</a>
 
 ## Summary
 * Extensive experience in designing and developing ILT and eLearning courses
