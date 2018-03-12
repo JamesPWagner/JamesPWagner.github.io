@@ -30,10 +30,22 @@ Phone (408) 569-9763<br>
 
 **Oracle Corporation	2009 – 2016	Senior Curriculum Developer**
 
-Developed instructor-led training for the ForgeRock Identity Platform, focusing on self-service, user interface customization, and workflow.
-* Wrote new courseware for admins on how to implement user self-service features such as registration, profile update, password reset, forgotten username, and other aspects of the ForgeRock Identity Management system.
-* Created lab guides and presentations for developers on rebranding the self-service UI using HTML5, CSS3, JavaScript, jQuery, and other web development tools.
-* Added new labs for developers on automated workflow design and deployment using the Activiti Designer Business Process Management tool.
+Designed and developed courses for multiple Oracle products, such as cloud service, Enterprise Service Bus, SOA, web security, etc. All the courses I was responsible for development received above 90% evaluation score for the pilot classes.
+
+**ILT**
+* Rewrote the Oracle Service Bus course to improve the quality of the student's learning experience by using a use-case-driven strategy
+* Updated one of Oracle University’s top seller SOA course; redesigned the labs using a scenario-based approach
+* Designed and developed a new course for Oracle API Gateway, a product I knew little about and had to learn along the way. Delivered high quality work under tough conditions and changing requirements
+* Participated in development of a highly conceptual course that teaches using SOA methodologies to solve business problems, mainly responsible for creating workshop-style case study activities and hands-on product-as-example labs
+* Led development of a web services programming course, responsible for communicating with stakeholders, creating the design document and developing the presentations
+
+**eLearning**
+* Created tutorials and demo videos for Oracle cloud services using Camtasia from conception to production
+* Worked closely with product managers to create a series of video lectures for Oracle Cloud Learning Subscription
+* Created several eStudy courses using Articulate Presenter and Quizmaker
+* Participated in developing a framework (based on HTML5, CSS, JQuery and JSON technologies) that generates interactive poster for Oracle products
+* Designed, developed and maintain Oracle SOA Suite learning portal on Oracle Learning Library
+
 
 **BMC Software**, March 2014 – November 2015, Senior Information Developer
 
