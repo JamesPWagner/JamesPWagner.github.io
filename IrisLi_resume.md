@@ -1,13 +1,12 @@
 
 # Iris Li
-## Contact
+### Contact
 Email irismanli@yahoo.com<br>
 Phone (408) 569-9763<br>
 <a href="https://jamespwagner.github.io/IrisLi_Samples" target="_blank">eLearning, Technical Documentation, and Video Samples</a><br>
 <a href="https://jamespwagner.github.io/Iris_Li_Resume.docx">Resume in Word format</a>
 
 ## Summary
-Senior eLearning developer, tech writer, and program manager specializing in technical, customer, sales, and partner enablement for complex cloud, virtualization, and datacenter orchestration technologies.
 * Extensive experience in designing and developing ILT and eLearning courses
 * Strong instructional design and development background
 * Track record of successfully developing technical and technical sales courses
@@ -18,18 +17,16 @@ Senior eLearning developer, tech writer, and program manager specializing in tec
 * Self-motivated learner, quick to embrace new concepts and technologies
 
 ## Experience
-**VMware Inc**, October 2016 – October 2017, eLearning Course Developer (contract)
+**VMware Inc, Palo Alto, CA	2016 – 2018	Senior Curriculum Developer**
 
-Developed an extensive library of technical and nontechnical eLearning courses for employees, partners, support, and customers focusing on the VMware cloud and automation platform.
+* Designed and developed technical selling eLearning courses to enable SEs and partners to whiteboard, demo, technically show value, and handle objections.
+* Led the effort from forming the idea to implementing the first paid elearning course
+* Created technical selling development guidelines for the elearning course developers
 
-**Completed Projects**
+**Projects**
 
-* VMware Integrated OpenStack Fundamentals
 * VMware Operations and Automation Management for Technical Sales
-* VMware Hyper Converged Infrastructure
-* Video: What is Solution Selling?
-* Spotlight Presentation (live webcast): Transforming Security
-* Various new product eLearning courses for technical sales and partners
+* VMware vSAN Fundamentals
 
 **ForgeRock**, March – May 2016, Curriculum Developer (contract)
 
