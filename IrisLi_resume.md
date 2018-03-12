@@ -1,4 +1,3 @@
-
 # Iris Li
 ### Contact
 Email irismanli@yahoo.com<br>
@@ -75,26 +74,20 @@ Course Developer, contributed to multiple training initiatives:
 * Defined Sun's new WBT offering levels and the development process, and evaluated the production tools
 * Participated in an evaluation of a vendor's Learning Content Management System
 
-**Netscape Communications**, 1995-2001, Principal Courseware Developer, E-Commerce
+**Netscape Communications Corp., 1998- 2001, Course Developer**
+* Designed and developed multiple web-based courses for iPlanet Process Manager, iPlanet Application Server and Netscape Application Server
+* Participated in the development and update of several ILT courses 
+* Designed, created and maintained the training group’s portal web site
 
-Supported the industry’s first e-commerce products for publishing, payment, directory, application server, and secure web communications.
-* Developed courseware for the Netscape Publishing System, BillerXpert, Netscape Application Server, and other products.
-* Partnering with Netscape’s professional services group, supported early adopters of the e-commerce platform including Bank of America (Application Server), Los Angeles Times (Publishing), and many dotcoms.
-* Created the first comprehensive JavaScript curriculum (client and server-side), which proved to be very popular among developers.
+## Technical Background
+* **Platforms**: Windows, Linux, Solaris/UNIX
+* **Technologies**: Virtualization technology, cloud computing, Service Oriented Architecture, web services, web security, Java EE, Web 2.0, DITA, SCORM
+* **Languages**: XML, HTML5, CSS, JavaScript, Java, XSL/XSLT, SQL
+* **Tools**:  PowerPoint, Camtasia, Articulate Storyline, PhotoShop, Gimp, Audacity, Arbortext, Confluence, JIRA, Framemaker, Flash, Dreamweaver
 
-**Apple Inc.**, 1987-1995, Courseware Program Manager
+## Education
+M.Ed., Instructional Technology, University of Nebraska-Lincoln
+B. E., Electronic Engineering, Beijing Information Science and Technology University, China
 
-Supported Apple’s Unix-based product, A/UX, allowing the company to market products to the Federal Government.
-* Responsible for sales and technical training for the A/UX product.
-* Enabled Apple sales engineers to provide technical and sales training worldwide.
-* Trained instructors nationally on supporting A/UX.
-
-## Education and Certifications
-**MBA, Finance Concentration**, San Jose State University, 1990. Program sponsored by Apple Inc. 
-**BA Journalism and Mass Communications**, San Jose State University, 1980
-
-**HP certifications**: 
-* Accredited Integration Specialist
-* Accredited Systems Engineer
 
 
