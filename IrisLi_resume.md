@@ -58,12 +58,22 @@ Responsible for designing, developing and maintaining technical courseware for H
 * Engaged SMEs to create webinars for internal audience
 * Contributed to curriculum planning and design of the training templates
 
-**Sun Microsystems**, 2001-2007, Educational Services Manager
+**Sun Microsystems, 2001 – 2006	Lead Course Developer/Content Architect**
 
-Led technical and sales training programs for the iPlanet suite of Java, e-commerce, and directory products. 
-* Designed and implemented Sun’s virtual instructor-led training (VILT) capability, enabling the company to market online learning.
-* Delivered technical curriculum for Java/J2EE, Directory, Application Server, and other products.
-* Led various sales training initiatives designed to accelerate server sales with an integrated e-commerce platform.
+Designed the outline and managed the development for a series of courses for external customers and internal audiences: 
+* Participated in needs and tasks analysis 
+* Gathered the product information from various resources, e.g. meeting with software developers and QA engineers, reading technical documentations and so on
+* Managed all aspebdcts of the courseware development process, including communicating regularly with SMEs, the product management and product development team
+* Guided SMEs and vendors on the development of instructionally-sound materials
+
+Course Developer, developed WBT courses for Sun Java System Application Server from inception to deployment:
+* Designed the user interface and implemented the functionality 
+* Converted courses into SCORM conformance
+
+Course Developer, contributed to multiple training initiatives:
+* Led a joint documentation-training pilot project to define a content model and development process that make doc team and training team share content easily
+* Defined Sun's new WBT offering levels and the development process, and evaluated the production tools
+* Participated in an evaluation of a vendor's Learning Content Management System
 
 **Netscape Communications**, 1995-2001, Principal Courseware Developer, E-Commerce
 
