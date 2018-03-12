@@ -30,7 +30,7 @@ Representative samples from VMware, Oracle, and Hewlett-Packard.
 <img src="https://jamespwagner.github.io/images/lightbulb2.png" height="100" width="100">
 </td>
 <td><h3>eLearning</h3>
-**vSAN Monitoring and Troubleshooting Data Availability** <br>
+<strong>vSAN Monitoring and Troubleshooting Data Availability</strong><br>
 <a href="https://jamespwagner.github.io/vSAN/VSANMT_M1/story_html5.html" target="_blank">Module 1 - vSAN Data Availability Overview</a><br>
 <a href="https://jamespwagner.github.io/vSAN/VSANMT_M2/story_html5.html" target="_blank">Module 2 - Monitoring and Troubleshooting Tools and Process</a><br> 
 <a href="https://jamespwagner.github.io/vSAN/VSANMT_M3/story_html5.html" target="_blank">Module 3 - Troubleshooting Failure Scenarios</a><br> 
@@ -45,7 +45,7 @@ Representative samples from VMware, Oracle, and Hewlett-Packard.
 </td>
 <td><h3>Docs & Tutorials</h3>
 <a href="http://www.oracle.com/webfolder/technetwork/tutorials/obe/fmw/wls/12c/12c_poster/poster.html" target="_blank">Oracle WebLogic Server 12c: Interactive Quick Reference</a><br>
-*Instructor-Led Training Guides* <br>
+<i>Instructor-Led Training Guides</i><br>
 <a href="https://jamespwagner.github.io/oracle_security_mgt_student_guide.html" target="_blank">Oracle Enterprise Gateway Security Management Student Guide</a><br>
 <a href="https://jamespwagner.github.io/oracle_security_mgt_activity_guide.html" target="_blank">Oracle Enterprise Gateway Security Management Activity Guide</a><br>
 </td>
