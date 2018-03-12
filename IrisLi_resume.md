@@ -16,7 +16,7 @@ Phone (408) 569-9763<br>
 * Self-motivated learner, quick to embrace new concepts and technologies
 
 ## Experience
-**VMware Inc, Palo Alto, CA	2016 – 2018	Senior Curriculum Developer**
+### VMware Inc, Palo Alto, CA	2016 – 2018	Senior Curriculum Developer**
 
 * Designed and developed technical selling eLearning courses to enable SEs and partners to whiteboard, demo, technically show value, and handle objections.
 * Led the effort from forming the idea to implementing the first paid elearning course
@@ -27,7 +27,7 @@ Phone (408) 569-9763<br>
 * VMware Operations and Automation Management for Technical Sales
 * VMware vSAN Fundamentals
 
-**Oracle Corporation, 2009 – 2016, Senior Curriculum Developer**
+### Oracle Corporation, 2009 – 2016, Senior Curriculum Developer**
 
 Designed and developed courses for multiple Oracle products, such as cloud service, Enterprise Service Bus, SOA, web security, etc. All the courses I was responsible for development received above 90% evaluation score for the pilot classes.
 
@@ -45,7 +45,7 @@ Designed and developed courses for multiple Oracle products, such as cloud servi
 * Participated in developing a framework (based on HTML5, CSS, JQuery and JSON technologies) that generates interactive poster for Oracle products
 * Designed, developed and maintain Oracle SOA Suite learning portal on Oracle Learning Library
 
-**Hewlett-Packard Company, 2007 – 2008, Curriculum Developer**
+### Hewlett-Packard Company, 2007 – 2008, Curriculum Developer**
 
 Responsible for designing, developing and maintaining technical courseware for HP Server Automation software (formerly known as Opsware Server Automation).
 * Designed course outlines, developed student guides, hands-on labs and instructor notes
@@ -57,7 +57,7 @@ Responsible for designing, developing and maintaining technical courseware for H
 * Engaged SMEs to create webinars for internal audience
 * Contributed to curriculum planning and design of the training templates
 
-**Sun Microsystems, 2001 – 2006	Lead Course Developer/Content Architect**
+### Sun Microsystems, 2001 – 2006	Lead Course Developer/Content Architect**
 
 Designed the outline and managed the development for a series of courses for external customers and internal audiences: 
 * Participated in needs and tasks analysis 
@@ -74,7 +74,7 @@ Course Developer, contributed to multiple training initiatives:
 * Defined Sun's new WBT offering levels and the development process, and evaluated the production tools
 * Participated in an evaluation of a vendor's Learning Content Management System
 
-**Netscape Communications Corp., 1998- 2001, Course Developer**
+### Netscape Communications Corp., 1998- 2001, Course Developer**
 * Designed and developed multiple web-based courses for iPlanet Process Manager, iPlanet Application Server and Netscape Application Server
 * Participated in the development and update of several ILT courses 
 * Designed, created and maintained the training group’s portal web site
