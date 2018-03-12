@@ -28,7 +28,7 @@ Phone (408) 569-9763<br>
 * VMware Operations and Automation Management for Technical Sales
 * VMware vSAN Fundamentals
 
-**Oracle Corporation	2009 – 2016	Senior Curriculum Developer**
+**Oracle Corporation, 2009 – 2016, Senior Curriculum Developer**
 
 Designed and developed courses for multiple Oracle products, such as cloud service, Enterprise Service Bus, SOA, web security, etc. All the courses I was responsible for development received above 90% evaluation score for the pilot classes.
 
@@ -46,20 +46,17 @@ Designed and developed courses for multiple Oracle products, such as cloud servi
 * Participated in developing a framework (based on HTML5, CSS, JQuery and JSON technologies) that generates interactive poster for Oracle products
 * Designed, developed and maintain Oracle SOA Suite learning portal on Oracle Learning Library
 
+**Hewlett-Packard Company, 2007 – 2008, Curriculum Developer**
 
-**BMC Software**, March 2014 – November 2015, Senior Information Developer
-
-Delivered an extensive portfolio of rich media and text-based content for BMC's Remedy Action Request System and IT Service Management Suite focusing on solution development, installation/upgrade, identity management, and IT Service Management solutions.
-* Created a library of technical videos focusing on a wide range of IT Service Management topics.
-* Developed and deployed BMC’s first HTML5/jQuery-based online tutorial system.
-* Published 100+ technical documents on topics including complex solution design, security, installation/upgrade, and problem resolution.
-
-**Hewlett-Packard Company**, 2007-2013, Global Field Enablement, HP Software Worldwide Sales
-
-Enabled HP’s internal and partner ecosystem to market, support, and deploy the Cloud and Automation Platform.
-* Delivered an extensive library of training manuals, lab guides, developer guides, and video-based self-paced training for HP’s Business Service Automation platform.
-* Created documentation, courseware and virtual lab environments for HP Software Education’s for-profit Datacenter Orchestration curriculum.
-* Provided ongoing consultation to partners, HP’s internal R&D departments, HP IT, and customers on complex cloud-based datacenter integrations.
+Responsible for designing, developing and maintaining technical courseware for HP Server Automation software (formerly known as Opsware Server Automation).
+* Designed course outlines, developed student guides, hands-on labs and instructor notes
+* Built development lab environment and worked with the delivery team to setup the production lab environment
+* Built effective working relationships with engineering team:
+	* Worked with engineers to troubleshoot the product problems
+	* Participated in product functional specification review meeting
+* Worked with multimedia producers to convert ILT to WBT 
+* Engaged SMEs to create webinars for internal audience
+* Contributed to curriculum planning and design of the training templates
 
 **Sun Microsystems**, 2001-2007, Educational Services Manager
 
