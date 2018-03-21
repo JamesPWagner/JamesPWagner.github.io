@@ -10,7 +10,7 @@ View my profiles on
 <a href="https://jamespwagner.github.io/James_Wagner_Resume.docx">Resume in Word format</a>
 
 ## Summary
-My focus is on providing great learning experiences using a variety of modalities like eLearning, microlearning, gamification, interactive video, and documentation for technical, sales, and developer audiences.
+My focus is on providing great learning experiences using a variety of modalities like eLearning, microlearning, gamification, interactive video, and documentation for technical, developer, and sales, audiences.
 * Interactive eLearning, video, and hands-on lab development
 * Media development tools including HTML5, Articulate Storyline, Camtasia, Adobe Captivate and others
 * Deep knowledge of cloud and virtualization solutions including VMware, OpenStack, Kubernetes, IaaS/PaaS/SaaS/XaaS and related technologies
