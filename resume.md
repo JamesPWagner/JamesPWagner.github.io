@@ -10,12 +10,12 @@ View my profiles on
 <a href="https://jamespwagner.github.io/James_Wagner_Resume.docx">Resume in Word format</a>
 
 ## Summary
-Senior eLearning developer, tech writer, and program manager specializing in technical, customer, sales, and partner enablement for complex cloud, virtualization, and datacenter orchestration technologies.
+My focus is on providing great learning experiences using a variety of modalities like eLearning, microlearning, gamification, interactive video, and documentation for technical, sales, and developer audiences.
 * Interactive eLearning, video, and hands-on lab development
-* Media development tools including Articulate Storyline, Camtasia, Adobe Captivate and others
+* Media development tools including HTML5, Articulate Storyline, Camtasia, Adobe Captivate and others
 * Deep knowledge of cloud and virtualization solutions including VMware, OpenStack, Kubernetes, IaaS/PaaS/SaaS/XaaS and related technologies
 * Web development in JavaScript, HTML5/CSS3, jQuery, AngularJS, and others
-* Virtual lab development and maintenance
+* Management experience in training, documentation, and sales enablement
 * MBA, General Management with Finance concentration
 
 ## Experience
