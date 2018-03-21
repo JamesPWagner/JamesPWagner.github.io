@@ -4,7 +4,7 @@
 Email jwagnerfamily@gmail.com<br>
 Phone (408) 761-1299<br>
 View my profiles on 
-<a href="https://www.linkedin.com/in/jwagner6/" target="_blank">Facebook</a> and
+<a href="https://www.facebook.com/jwagnerfamily" target="_blank">Facebook</a> and
 <a href="https://www.linkedin.com/in/jwagner6/" target="_blank">LinkedIn</a><br>
 <a href="https://jamespwagner.github.io/samples" target="_blank">eLearning, Technical Documentation, and Video Samples</a><br>
 <a href="https://jamespwagner.github.io/James_Wagner_Resume.docx">Resume in Word format</a>
