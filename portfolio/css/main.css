@@ -1,0 +1,221 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Rambla|Scada);
+
+body
+{
+	margin: 0px;
+   
+}
+
+header
+{
+	position: relative;
+	width: 100%;
+	height: 50px;
+	background-color: #FF8D37;
+}
+
+
+
+#header-container
+{
+	position: relative;
+	width: 1000px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FF8D37;
+}
+
+.title
+{
+	position: relative;
+    float:left;
+	font-family: 'Rambla', sans-serif;
+    color: #ffffff;
+	font-size: 22px;
+	margin-bottom: 0px;
+}
+
+#comp-title
+{
+	top: 10px;
+	left: 15px;
+}
+
+
+#icons-container-right
+{
+	position: relative;
+	top: 6px;
+	float: right;
+}
+
+
+.icon
+{
+	position: relative;
+	width: 40px;
+	height: 41px;
+	margin-right: 8px;
+	display: inline-block;
+}
+
+.icon-last
+{
+	margin-right: 0px;
+}
+
+.icon-linkedin
+{
+	background-image: url(../image/icon-linkedin.png);
+}
+
+.icon-facebook
+{
+	background-image: url(../image/icon-facebook.png);
+}
+
+.icon-email
+{
+	background-image: url(../image/icon-email.png);
+}
+
+
+
+#grad1 {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  height: 570px;
+  margin: auto;
+  background: #204F7A;
+  background: linear-gradient(to bottom right, #D9E2F3, #204F7A);
+}
+
+#body-container {
+  width: 1000px;
+  margin: auto;
+  
+}
+
+.line1, .line2, .line3, .line4 {
+   animation: draw 0.5s linear forwards;
+   -webkit-animation: draw 0.5s linear forwards;
+   -moz-animation: draw 0.5s linear forwards;  
+}
+
+@-webkit-keyframes draw {
+  to { 
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes draw {
+  to { 
+    stroke-dashoffset: 0;
+  }
+}
+
+@-moz-keyframes draw {
+  to { 
+    stroke-dashoffset: 0;
+  }
+}
+
+.line1 {
+  stroke-dasharray: 480;
+  stroke-dashoffset: 480;
+}
+
+.line2 {
+  stroke-dasharray: 501;
+  stroke-dashoffset: 501;
+}
+
+.line3 {
+  stroke-dasharray: 501;
+  stroke-dashoffset: 501;
+}
+
+.line4 {
+  stroke-dasharray: 645;
+  stroke-dashoffset: 645;
+}
+
+
+.overlay-text {
+  width: 78px;
+  word-wrap: break-word;
+  font-family: 'Scada', sans-serif;
+  font-size: 16px;
+  
+}
+
+.hex_draw {
+  stroke: #FF8D37;
+  stroke-width: 2;
+  fill: white;
+/*
+  fill-opacity: 1;
+  stroke: #FF8D37;
+  stroke-width: 2;
+  fill: white;
+    */
+}
+
+.hex-cover {
+  fill-opacity: 0.0;
+}
+
+.hex-cover:hover {
+   animation: drawHex 0.6s linear forwards;
+   -webkit-animation: drawHex 0.6s linear forwards;
+   -moz-animation: drawHex 0.6s linear forwards;
+   stroke-dasharray: 423.89;
+   stroke-dashoffset: 423.89;
+   stroke-width: 5;
+   stroke: #FF8D37;
+   cursor: pointer;
+}
+
+@-webkit-keyframes drawHex {
+ to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes drawHex {
+  to { 
+    stroke-dashoffset: 0;
+  }
+}
+
+@-moz-keyframes drawHex {
+  to { 
+    stroke-dashoffset: 0;
+  }
+}
+
+/**
+svg:hover path.hex1_draw {
+  stroke-dasharray: 444;
+  stroke-dashoffset: 444;
+}
+
+.animate-fading {
+   
+    animation-delay: 6s;
+  -webkit-animation-delay: 6s;
+  -moz-animation-delay: 6s;
+  
+      
+  animation:fading 0.6s ease-in 1s;
+  -webkit-animation: fading 0.6s ease-in 1s forwards;
+  -moz-animation: fading 0.6s ease-in 1s;
+}
+
+@-webkit-keyframes fading{0%{opacity:0}100%{opacity:1}}
+@keyframes fading{0%{opacity:0}100%{opacity:1}}
+
+**/
