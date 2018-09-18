@@ -1,0 +1,2182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns10111001111" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified">
+  <layouts>
+    <layout name="npnxnanbsnfns10111001111" font="Lato" controllayout="npnxnanbsnfns10111001111" colorscheme="npxnabnsnfns10111001111" string_table="npxnabnsnfns10111001111" />
+    <layout name="pxabnsnfns10111001111" font="Lato" controllayout="pxabnsnfns10111001111" colorscheme="npxnabnsnfns10111001111" string_table="npxnabnsnfns10111001111" />
+    <layout name="npxnabnsnfns10111001111" font="Lato" controllayout="npxnabnsnfns10111001111" colorscheme="npxnabnsnfns10111001111" string_table="npxnabnsnfns10111001111" />
+    <layout name="npnxnanbnsnfns10111001111" font="Lato" controllayout="npnxnanbnsnfns10111001111" colorscheme="npxnabnsnfns10111001111" string_table="npxnabnsnfns10111001111" />
+    <layout name="pxabnsnfns10111001110" font="Lato" controllayout="pxabnsnfns10111001110" colorscheme="npxnabnsnfns10111001111" string_table="npxnabnsnfns10111001111" />
+    <layout name="pnxanbnsnfns10111001111" font="Lato" controllayout="pnxanbnsnfns10111001111" colorscheme="npxnabnsnfns10111001111" string_table="npxnabnsnfns10111001111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Intro" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="true" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Lato" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icontext" />
+          <option name="previous" value="icontext" />
+          <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns10111001111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111001111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns10111001111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns10111001111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111001110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns10111001111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns10111001111">
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x222222" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x222222" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x404040" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x323232" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x313131" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAAAAAA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x545454" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x494949" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7B7B7B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1B1B1B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="40" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="30" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4F81BD" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1B1B1B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x323232" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="40" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns10111001111">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5YgKRVZ0jlS.5eSlrzFuArn" displaytext="Home Remodeling and Construction 101" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5YgKRVZ0jlS.5Y2zkDAjPrO" displaytext="Prepare for Any Project" expand="false" type="slide" />
+            <slidelink slideid="_player.5YgKRVZ0jlS.6ocd5f1TmN3" displaytext="Stay In Control" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5YgKRVZ0jlS.5XXaviTTvVo" displaytext="Your Perfect Home" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5YgKRVZ0jlS.5rfT1FpIFmm" displaytext="It can be like a maze" expand="false" type="slide" />
+            <slidelink slideid="_player.5YgKRVZ0jlS.5fFzPP0uEX5" displaytext="A Better Way" expand="false" type="slide" />
+            <slidelink slideid="_player.5YgKRVZ0jlS.6d3PyMKGeAX" displaytext="Step 1 - Know Your Limits" expand="false" type="slide" />
+            <slidelink slideid="_player.5YgKRVZ0jlS.6clXnuGtRP4" displaytext="Step 2 - Design Your Dream" expand="false" type="slide" />
+            <slidelink slideid="_player.5YgKRVZ0jlS.6lwn1fpekle" displaytext="Step 3 - Get Your Permits" expand="false" type="slide" />
+            <slidelink slideid="_player.5YgKRVZ0jlS.6VmQVFgRxz4" displaytext="Step 4 - Hire The Best" expand="false" type="slide" />
+            <slidelink slideid="_player.5YgKRVZ0jlS.663FOAVxUCS" displaytext="Step 5 - Write It All Down" expand="false" type="slide" />
+            <slidelink slideid="_player.5YgKRVZ0jlS.5qRUqr63gPg" displaytext="Step 6 - Get Ready To Build" expand="false" type="slide" />
+            <slidelink slideid="_player.5YgKRVZ0jlS.6JX4j8rAv7E" displaytext="Control The Conversation" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5YgKRVZ0jlS.5h3khkUko9e" displaytext="Course Resources" expand="false" type="slide" />
+        <slidelink slideid="_player.5YgKRVZ0jlS.5aXyxADCEi3" displaytext="Let’s Get Started!" expand="false" type="slide" />
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="5YgKRVZ0jlS.5eSlrzFuArn" slidebank="false" type="slide">six steps to an on-time, on-budget, and hassle-free project home remodeling and construction 101 </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.5Y2zkDAjPrO" slidebank="false" type="slide">it can seem mind boggling new home… room addition… gourmet kitchen… room renovation… well prepare you for any project	 </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.6ocd5f1TmN3" slidebank="false" type="slide">stay in control avoid headaches – even legal problems save time &amp; money six step process brings it all down to earth! </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.5XXaviTTvVo" slidebank="false" type="slide">the home of your dreams </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.5rfT1FpIFmm" slidebank="false" type="slide">it can be like a maze… </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.5fFzPP0uEX5" slidebank="false" type="slide">step 1 know your limits step 2 design your dream step 4 hire the best step 5 write it all down step 6 get ready to build step 3 get your permits but there’s a better way! </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.6d3PyMKGeAX" slidebank="false" type="slide">step 4 hire the best step 5 write it all down step 6 get ready to build step 3 get your permits step 2 design your dream step 1 know your limits insurance zoning regulations determine property lines we’ll show you how to… </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.6clXnuGtRP4" slidebank="false" type="slide">step 4 hire the best step 5 write it all down step 6 get ready to build step 3 get your permits step 2 design your dream step 1 know your limits money-saving design tips do it yourself advice work with your designer select a designer we’ll show you how to… </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.6lwn1fpekle" slidebank="false" type="slide">step 4 hire the best step 5 write it all down step 6 get ready to build step 3 get your permits step 2 design your dream step 1 know your limits contractor says you don’t need a permit inspections what does and doesn’t need a permit the building permit we’ll show you how to… </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.6VmQVFgRxz4" slidebank="false" type="slide">step 4 hire the best step 5 write it all down step 6 get ready to build step 3 get your permits step 2 design your dream step 1 know your limits we’ll show you how to… how to handle bids avoid the most common and costly mistakes do you need a general contractor? what to look for in a builder </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.663FOAVxUCS" slidebank="false" type="slide">step 4 hire the best step 5 write it all down step 6 get ready to build step 3 get your permits step 2 design your dream step 1 know your limits handle changes schedule and costs general contractor agreement design services agreement identify gaps in “standard” agreements find low-cost and free contract templates 27 things every builder contract must have we’ll show you how to… </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.5qRUqr63gPg" slidebank="false" type="slide">step 4 hire the best step 5 write it all down step 6 get ready to build step 3 get your permits step 2 design your dream step 1 know your limits we’ll show you how to… monitor the job site all required permits health, safety, environmental, recycling, and public works rules </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.6JX4j8rAv7E" slidebank="false" type="slide">step 4 hire the best step 5 write it all down step 6 get ready to build step 3 get your permits step 2 design your dream step 1 know your limits you should run your job your job should not run you control the conversation stay in control! </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.5h3khkUko9e" slidebank="false" type="slide">case study money-saving tip red flag – trouble ahead owner-builder advice bright ideas &amp; deeper dives resources </slidetext>
+      <slidetext slideid="5YgKRVZ0jlS.5aXyxADCEi3" slidebank="false" type="slide">exit activity let’s get started! </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="5YgKRVZ0jlS.5eSlrzFuArn" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Hi Everyone and welcome to Home Remodeling and Construction 101, the Six Steps to an on-time, on-budget, and hassle-free building project."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.5Y2zkDAjPrO" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Whether it’s a simple room renovation, a gourmet kitchen, an addition to your existing house, or building a new home from the ground up,&amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="This course is for you, the homeowner who is about to embark on a home remodeling or construction project.&amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It can seem complicated, even mind-boggling. "&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.6ocd5f1TmN3" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="But we’ve developed a six-step process you can follow that brings it all down to Earth, a roadmap, that will lead to the home of your dreams. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="At each step you’ll learn strategies that will save you time, money, a lot of headaches, and even legal problems. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="We will show you how to stay in control of the entire process. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You won’t find anything this comprehensive anywhere else.&amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="We hope you enjoy this course and find it useful. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Let’s get started."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="11" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.5XXaviTTvVo" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="The perfect home. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="You’ve been dreaming about it. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="You’ve been talking about it. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="You’ve even done some serious planning. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="And now your dream is finally within reach. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="But once the dreaming stops and the work begins, it can all start to look really complicated, even scary. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="Where do you start? &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="How long will it take? &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="How much will it cost? &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="Who does what? &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="And the ever-present “What If…?”&amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="You have a million questions but you don’t know where to turn for answers.&amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.5rfT1FpIFmm" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="It can be like a freeway maze. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="There are side roads and detours. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="Wrong turns and dead ends. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="Speed traps and bad directions everywhere. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="You don’t know where to start. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="Pretty soon you feel like your project is driving you instead of you driving  your project."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="11" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.5fFzPP0uEX5" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="But there is a better way. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="There  is light on the horizon. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The six step process we teach you in this course unravels the maze. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It keeps you in control and on track. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will stay on time and on budget. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will bypass the hazards.  &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="And most important, you will stay in the driver’s seat."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.6d3PyMKGeAX" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="But there is a better way. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="There  is light on the horizon. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The six step process we teach you in this course unravels the maze. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It keeps you in control and on track. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will stay on time and on budget. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will bypass the hazards.  &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="And most important, you will stay in the driver’s seat."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.6clXnuGtRP4" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="But there is a better way. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="There  is light on the horizon. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The six step process we teach you in this course unravels the maze. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It keeps you in control and on track. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will stay on time and on budget. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will bypass the hazards.  &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="And most important, you will stay in the driver’s seat."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.6lwn1fpekle" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="But there is a better way. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="There  is light on the horizon. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The six step process we teach you in this course unravels the maze. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It keeps you in control and on track. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will stay on time and on budget. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will bypass the hazards.  &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="And most important, you will stay in the driver’s seat."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.6VmQVFgRxz4" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="But there is a better way. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="There  is light on the horizon. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The six step process we teach you in this course unravels the maze. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It keeps you in control and on track. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will stay on time and on budget. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will bypass the hazards.  &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="And most important, you will stay in the driver’s seat."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.663FOAVxUCS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="But there is a better way. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="There  is light on the horizon. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The six step process we teach you in this course unravels the maze. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It keeps you in control and on track. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will stay on time and on budget. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will bypass the hazards.  &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="And most important, you will stay in the driver’s seat."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.5qRUqr63gPg" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="But there is a better way. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="There  is light on the horizon. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The six step process we teach you in this course unravels the maze. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It keeps you in control and on track. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will stay on time and on budget. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will bypass the hazards.  &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="And most important, you will stay in the driver’s seat."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.6JX4j8rAv7E" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="But there is a better way. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="There  is light on the horizon. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The six step process we teach you in this course unravels the maze. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It keeps you in control and on track. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will stay on time and on budget. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You will bypass the hazards.  &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="And most important, you will stay in the driver’s seat."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.5h3khkUko9e" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="As you make your way through the course, you will see these buttons come alive. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Here’s what they do.&amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The Light bulb icon provides a deeper dive into an important topic. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You’ll find checklists, detailed explanations, links to websites, and more.&amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The Tools icon has specific advice for owner-builders. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="If you decide to be your own designer and builder, these nuggets will tell you what you need to do and when.&amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The Red Flag gives you strategies for avoiding mistakes that can cause serious financial or even legal trouble. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Pay attention to red flags!&amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The dollar sign icon shows you specific ways you can substantially cut costs and save a lot of money and time.&amp;#xA;"&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Finally, the Case Study icon shows a real-world example of a particular topic."&gt;
+        &lt;Style FontSize="11" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5YgKRVZ0jlS.5aXyxADCEi3" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="So let’s get started! &amp;#xA;"&gt;
+        &lt;Style FontSize="11" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="It’s OK to skip around in this course, but we recommend that you go through each of the sections in order, starting with Know Your Limits and ending with Ready to Build. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="Just click the Exit Activity button at the top of your browser window. &amp;#xA;"&gt;
+        &lt;Style FontSize="11" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" SpacingBefore="6" /&gt;
+      &lt;Span Text="Then, select an activity to get started."&gt;
+        &lt;Style FontSize="11" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>
