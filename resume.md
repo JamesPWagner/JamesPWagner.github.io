@@ -19,6 +19,14 @@ My focus is on providing great learning experiences for technical, developer, an
 * MBA, General Management with Finance concentration
 
 ## Experience
+
+**Firefall eLearning**, February 2018 - Present
+
+Independent eLearning partnership currently completing a commercial, non-technical home remodeling and construction project. The project includes course development, marketing, and cloud-based infrastructure development.
+* eLearning design and development with Articulate 360 and various video and graphic arts tools 
+* Learning Management System implementation and customization built on the Moodle Adaptable theme
+* Container-based e-commerce website hosted on AWS ECS
+
 **VMware Inc**, October 2016 – October 2017, eLearning Course Developer (contract)
 
 Developed an extensive library of technical and nontechnical eLearning courses for employees, partners, support, and customers focusing on the VMware cloud and automation platform.
