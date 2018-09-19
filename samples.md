@@ -31,7 +31,7 @@ Representative samples from VMware, Hewlett-Packard, Forgerock, and BMC Software
 <img src="https://jamespwagner.github.io/images/lightbulb2.png" height="100" width="100">
 </td>
 <td><h3>eLearning</h3>
-<a href="https://jamespwagner.github.io/firefall/story_html5.html">Home Remodeling and Construction: Six Steps to an On-Time, On-Budget, and Hassle-Free Project</a>
+<a href="https://jamespwagner.github.io/firefall/story_html5">Home Remodeling and Construction: Six Steps to an On-Time, On-Budget, and Hassle-Free Project</a><br>
 <a href="https://jamespwagner.github.io/OpenStack/story_html5.html" target="_blank">VMware Integrated OpenStack Fundamentals</a><br> 
 <a href="https://jamespwagner.github.io/Cloud_Provider/story_html5.html" target="_blank">Cloud Provider for Sales Professionals</a><br> 
 <b>Hyper-Converged Infrastructure Solutions Sales Training</b>
