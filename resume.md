@@ -23,7 +23,7 @@ My focus is on providing great learning experiences for technical, developer, an
 **Firefall eLearning**, February 2018 - Present
 
 Independent eLearning partnership currently completing a commercial, non-technical home remodeling and construction project. The project includes course development, marketing, and cloud-based infrastructure development.
-* Elearning design and development with Articulate 360 and various video and graphic arts tools 
+* Elearning development with Articulate 360 and various video and graphic arts tools 
 * Learning Management System implementation and customization built on the Moodle platform and Adaptable theme
 * Container-based e-commerce website hosted on AWS ECS
 
