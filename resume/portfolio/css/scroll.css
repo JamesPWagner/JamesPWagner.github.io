@@ -1,0 +1,239 @@
+@import url(https://fonts.googleapis.com/css?family=Scada);
+
+* { margin: 0; padding: 0; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+body { 
+    
+    font-family: 'Scada', sans-serif;
+    color: #2F2D2D;
+}
+
+h1 {
+  font-size: 2em;
+  
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1em;
+}
+
+nav {
+  width: 100%;
+  background-color: whitesmoke;
+  top: 0px;
+  opacity: 0.8
+}
+
+.nav-container {
+  padding: 20px;
+  margin: auto;
+  text-align: center;
+   
+}
+
+
+section {
+  width: 100%;
+  padding: 20px;
+  background-color: #FFFFFF;
+  height: auto
+}
+
+<!--section:nth-child(1) {
+  margin-top: 100px;
+}
+-->
+
+.col-12 {
+  width: 1000px;
+}
+
+.title {
+   position: relative;
+   font-size: 1.5em;
+   top: 1rem;
+   -webkit-animation-name: topFadeIn; 
+   animation-name: topFadeIn;
+   -webkit-animation-duration: 1s;
+   animation-duration: 1s;
+}
+
+.light {
+    color: honeydew;
+}
+     
+
+@-webkit-keyframes topFadeIn {
+  0% {
+    position: relative;
+    top: -2rem;
+    opacity: 0;
+  }
+
+ 75% {
+    position: relative;
+    opacity: 0.8;
+  }
+
+  100% {
+    top: 2%
+    opacity: 1;
+  }
+}
+
+@keyframes topFadeIn {
+  0% {
+    position: relative;
+    top: -2rem;
+    opacity: 0;
+  }
+
+75% {
+    position: relative;
+    opacity: 0.8;
+  }
+
+  100% {
+    top: 2%
+    opacity: 1;
+  }
+}
+
+.container {
+  position: relative;
+  padding: 20px;
+  top: 3%;
+  width: 100%;
+  
+}
+
+.overlay {
+    position: relative;
+    display: table;
+    margin: 0 auto;
+}
+/*.floating-box {
+  display: inline-block;
+    
+}*/
+
+
+.image {
+  border-radius: 10px;
+   
+}
+
+.overlay-content {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  -webkit-transition: opacity .8s ease;
+  transition: opacity .8s ease;
+  background-color: coral;
+}
+
+.overlay-content div {
+  color: black;
+  font-size: 1.1em;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+.container:hover .overlay-content {
+  opacity: 0.8;
+}
+
+#storytelling {
+    background-color: #E9C3B8;
+    height: 950px;   
+}
+
+#micro-learning {
+    background-color: #204A55;
+    height: 600px;   
+}
+
+#infographic {
+    background-color: #F3E9C6;
+    height: 600px;   
+}
+
+#tutorial {
+    background-color: #9BA5B6;
+    height: 600px;   
+}
+
+
+#HOL {
+    background-color: #D0A69A;
+    height: 650px;   
+    
+}
+
+
+footer {
+  height: 150px;
+  width: 100%;
+  padding: 50px;
+  background-color: #bdc3c7;
+  text-align: center;
+}
+
+
+
+footer a:hover {
+  color: #333;
+}
+
+
+
+.to-top {
+  padding: 20px;
+  /*background-color: #bdc3c7;*/
+  background-color: #bdc3c7;
+  width: 60px;
+  height: 60px;
+  float: right;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-right: 100px;
+  margin-bottom: 25px;
+  opacity: 0;
+  
+  transition: all .8s ease;
+}
+.to-top:hover {
+  box-shadow: 0 0 10px #333;
+}
+.to-top:before {
+  content: "";
+  display: block;
+  margin: 0 auto;
+	width: 0; 
+	height: 0; 
+  position: relative;
+  right: 4px;
+  bottom: 2px;
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	
+	border-bottom: 20px solid #16a085;
+
+}
+
+.visible {
+  opacity: 1;
+}

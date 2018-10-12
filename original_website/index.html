@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Firefall home page</title>
+  <!--<link href="https://fonts.googleapis.com/css?family=Rambla|Scada" rel="stylesheet">    
+  <link href="https://fonts.googleapis.com/css?family=Didact+Gothic" rel="stylesheet">
+  -->
+  <link rel="stylesheet" href="css/main.css">   
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+  <script>
+    <!--Animated straight line drawing-->
+      $(document).ready(function () {
+          $('#line-shape path').hide();
+          $('#line-shape text').hide();
+          setTimeout(function() {
+              $('#line-shape path.line1').fadeIn(200);
+          }, 300);
+          setTimeout(function() {
+              $('#line-shape path.line2').fadeIn(300);
+          }, 550);
+           setTimeout(function() {
+              $('#line-shape path.line3').fadeIn(300);
+          }, 750);
+          setTimeout(function() {
+              $('#line-shape path.line4').fadeIn(420);
+          }, 900);
+         
+          showHex();
+    
+      })
+      
+     <!-- Delay honeycomb display  -->
+      function setupItem(elem, delay) {
+          setTimeout(function(){
+              elem.fadeIn(300);
+          }, delay)
+      }  
+      
+      <!-- Display honeycomb in sequence  -->    
+      function showHex() {
+        
+          for(var i=0;i<=10;i++) {
+            setupItem($('#hex' + i), 1000 + i * 100);
+            setupItem($('#text' + i), 1000 + i * 100);
+            setupItem($('#cover' + i), 1000 + i * 100);
+              
+          }
+      }
+     
+  </script>
+</head>
+
+
+<body>
+    
+<header>
+  <div id="header-container">
+     <div id="logo">
+        <!-- Logo -->
+        <svg width="180" height="180" viewBox="0 0 500 500">
+
+	
+	   <rect x="22" y="22" width="170" height="170" rx="12" ry="12" 
+	   style=fill:rgb(255,255,255);stroke:rgb(255,255,255);stroke-width:1; />
+   
+     <!--
+    <rect x="22" y="22" width="170" height="170" rx="12" ry="12" 
+    style=fill:rgb(74,41,71);stroke:rgb(255,255,255);stroke-width:1; />
+     -->
+
+        <!-- Center line -->
+        <line stroke-linecap="round"
+              x1="50" y1="160" x2="160" y2="50"
+              stroke="rgb(255,141,55)" stroke-width="23"/>
+
+        <!-- Upper lines -->
+        <line stroke-linecap="round"
+              x1="50" y1="115" x2="115" y2="50"
+              stroke="rgb(119,120,112)" stroke-width="21"/>
+
+        <line stroke-linecap="round"
+              x1="50" y1="70" x2="70" y2="50"
+              stroke="rgb(119,120,112)" stroke-width="20"/>
+
+
+
+            <line stroke-linecap="round"
+              x1="95" y1="160" x2="160" y2="95"
+              stroke="rgb(119,120,112)" stroke-width="21"/>
+
+             <line stroke-linecap="round"
+              x1="140" y1="160" x2="160" y2="140"
+              stroke="rgb(119,120,112)" stroke-width="20"/>
+
+        </svg>
+     </div>
+      
+       <div class="name_container">
+           <div class="line1">
+                Firefall
+           </div>
+      
+        
+        <div class="line2">
+        Technology Solutions
+        </div>
+  </div>
+     
+      
+     
+     <div id="icons-container-right">
+                
+                <div class="icon icon-linkedin"></div>
+                <div class="icon icon-facebook"></div>                                    
+                <div class="icon icon-last icon-email"></div>
+     </div>
+  </div>
+</header>
+
+
+<div id="grad1">
+ <!-- <p><strong>Note:</strong> Internet Explorer 9 and earlier versions do not support gradients.</p> -->
+   <div id="body-container">
+    
+     <svg id="line-shape"  width="1000" height="600" version="1.1">
+        
+       
+        <path class="line1" d="M15,160 H300" stroke="#FF8D37" stroke-width="2"  fill="none" />
+        <path class="line2" d="M15,280 H516" stroke="#FF8D37" stroke-width="2"  fill="none" />
+        <path class="line3" d="M15,400 H516" stroke="#FF8D37" stroke-width="2"  fill="none" />
+        <path class="line4" d="M15,520 H660" stroke="#FF8D37" stroke-width="2"  fill="none" />
+        
+        
+        
+        <path id="hex1" class="hex_draw" d="M300,160 L336,100 L408,100 L444,160 L408,220 L336,220 z" />
+        <path id="hex2" class="hex_draw" d="M408,100 L444,40 L516,40 L552,100 L516,160 L444,160 z" />
+        <path id="hex3" class="hex_draw" d="M516,160 L552,100 L624,100 L660,160 L624,220 L552,220 z" />
+        <path id="hex4" class="hex_draw" d="M516,280 L552,220 L624,220 L660,280 L624,340 L552,340 z" />
+        <path id="hex5" class="hex_draw" d="M516,400 L552,340 L624,340 L660,400 L624,460 L552,460 z" />
+        <path id="hex6" class="hex_draw" d="M624,220 L660,160 L732,160 L768,220 L732,280 L660,280 z" />
+        <path id="hex7" class="hex_draw" d="M624,340 L660,280 L732,280 L768,340 L732,400 L660,400 z" />
+        <path id="hex8" class="hex_draw" d="M624,460 L660,400 L732,400 L768,460 L732,520 L660,520 z" />
+        <path id="hex9" class="hex_draw" d="M732,160 L768,100 L840,100 L876,160 L840,220 L768,220 z" />
+        <path id="hex10" class="hex_draw" d="M732,400 L768,340 L840,340 L876,400 L840,460 L768,460 z" />
+         
+          
+         
+        <text id="text1" class="overlay-text" x="340" y="140" style="fill:#5F5F5F;">Creative
+             <tspan x="330" y="160">instructional</tspan> 
+            <tspan x="345" y="180">design</tspan>
+        </text>
+        <text id="text2" class="overlay-text" x="448" y="83" style="fill:#5F5F5F;">Technical 
+            <tspan x="458" y="103">white</tspan>
+            <tspan x="446" y="123">boarding</tspan>
+         </text>
+        <text id="text3" class="overlay-text" x="563" y="152" style="fill:#5F5F5F;">Visual
+            <tspan x="550" y="172">storytelling</tspan>
+         </text>
+         <text id="text4" class="overlay-text" x="560" y="272" style="fill:#5F5F5F;">Product 
+            <tspan x="561" y="292">tutorial</tspan>
+         </text>
+         <text id="text5" class="overlay-text" x="538" y="400" style="fill:#5F5F5F;">Micro-learning
+         </text>
+        <text id="text6" class="overlay-text" x="660" y="210" style="fill:#5F5F5F;">Technical 
+            <tspan x="650" y="230">documentation</tspan>
+         </text>
+        <text id="text7" class="overlay-text" x="658" y="330" style="fill:#5F5F5F;">Interactive 
+            <tspan x="656" y="350">infographic</tspan>
+         </text>
+         <text id="text9" class="overlay-text" x="770" y="152" style="fill:#5F5F5F;">Hands-on 
+            <tspan x="788" y="172">lab</tspan>
+         </text>
+        <text id="text10" class="overlay-text" x="755" y="390" style="fill:#5F5F5F;">Assessment &amp; 
+            <tspan x="762" y="410">Certification</tspan>
+         </text>
+         
+        
+        <path id="cover1" class="hex-cover" d="M300,160 L336,100 L408,100 L444,160 L408,220 L336,220 z" />
+        
+        <path id="cover2" class="hex-cover" d="M408,100 L444,40 L516,40 L552,100 L516,160 L444,160 z" />
+        <a xlink:href="./samples.html#storytelling" target="sample_page">
+        <path id="cover3" class="hex-cover" d="M516,160 L552,100 L624,100 L660,160 L624,220 L552,220 z" />
+         </a>
+        <a xlink:href="./samples.html#tutorial" target="sample_page">
+        <path id="cover4" class="hex-cover" d="M516,280 L552,220 L624,220 L660,280 L624,340 L552,340 z" />
+         </a>
+         <a xlink:href="./samples.html#micro-learning" target="sample_page">
+        <path id="cover5" class="hex-cover" d="M516,400 L552,340 L624,340 L660,400 L624,460 L552,460 z" />
+         </a>
+        <path id="cover6" class="hex-cover" d="M624,220 L660,160 L732,160 L768,220 L732,280 L660,280 z" />
+        <a xlink:href="./samples.html#infographic" target="sample_page">
+        <path id="cover7" class="hex-cover" d="M624,340 L660,280 L732,280 L768,340 L732,400 L660,400 z" />
+         </a>
+        <path id="cover8" class="hex-cover" d="M624,460 L660,400 L732,400 L768,460 L732,520 L660,520 z" />
+        <a xlink:href="./samples.html#HOL" target="sample_page">
+        <path id="cover9" class="hex-cover" d="M732,160 L768,100 L840,100 L876,160 L840,220 L768,220 z" />
+         </a>
+        <path id="cover10" class="hex-cover" d="M732,400 L768,340 L840,340 L876,400 L840,460 L768,460 z" />  
+    </svg>    
+    
+   
+       
+  </div>
+    
+       
+</div>
+    
+</body>
+</html>
