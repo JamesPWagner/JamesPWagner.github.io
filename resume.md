@@ -1,4 +1,3 @@
-
 # James P. Wagner
 ## Contact
 Email jwagnerfamily@gmail.com<br>
