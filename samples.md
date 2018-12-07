@@ -31,13 +31,13 @@ Representative samples from VMware, Hewlett-Packard, Forgerock, and BMC Software
 <img src="https://jamespwagner.github.io/images/lightbulb2.png" height="100" width="100">
 </td>
 <td><h3>eLearning</h3>
-<a href="https://jamespwagner.github.io/samples/firefall_intro/story_html5.html" target="_blank">Home Remodeling and Construction: Six Steps to an On-Time, On-Budget, and Hassle-Free Project</a><br>
-<a href="https://jamespwagner.github.io/samples/OpenStack/story_html5.html" target="_blank">VMware Integrated OpenStack Fundamentals</a><br> 
-<a href="https://jamespwagner.github.io/samples/Cloud_Provider/story_html5.html" target="_blank">Cloud Provider for Sales Professionals</a><br> 
+<a href="https://jamespwagner.github.io/resume/firefall_intro/story_html5.html" target="_blank">Home Remodeling and Construction: Six Steps to an On-Time, On-Budget, and Hassle-Free Project</a><br>
+<a href="https://jamespwagner.github.io/resume/OpenStack/story_html5.html" target="_blank">VMware Integrated OpenStack Fundamentals</a><br> 
+<a href="https://jamespwagner.github.io/resume/Cloud_Provider/story_html5.html" target="_blank">Cloud Provider for Sales Professionals</a><br> 
 <b>Hyper-Converged Infrastructure Solutions Sales Training</b>
 <ul>
-<li><a href="https://jamespwagner.github.io/samples/HCI_Solution_Overview/story_html5.html" target="_blank">HCI Solution Overview</a></li>
-<li><a href="https://jamespwagner.github.io/samples/HCI_Applying_Exercise/story_html5.html" target="_blank">HCI Applying Solutions Exercise</a></li>
+<li><a href="https://jamespwagner.github.io/resume/HCI_Solution_Overview/story_html5.html" target="_blank">HCI Solution Overview</a></li>
+<li><a href="https://jamespwagner.github.io/resume/HCI_Applying_Exercise/story_html5.html" target="_blank">HCI Applying Solutions Exercise</a></li>
 </ul>
 </td>
 </tr>
@@ -49,8 +49,8 @@ Representative samples from VMware, Hewlett-Packard, Forgerock, and BMC Software
 <img src="https://jamespwagner.github.io/images/book.png" height="100" width="100">
 </td>
 <td><h3>Docs</h3>
-<a href="https://jamespwagner.github.io/hp_adv_auth_lg.html" target="_blank">HP Operations Orchestration Advanced Authoring Lab Guide</a><br> 
-<a href="https://jamespwagner.github.io/hp_adv_auth_sg.html" target="_blank">HP Operations Orchestration Advanced Authoring Student Guide</a><br> 
+<a href="https://jamespwagner.github.io/resume/hp_adv_auth_lg.html" target="_blank">HP Operations Orchestration Advanced Authoring Lab Guide</a><br> 
+<a href="https://jamespwagner.github.io/resume/hp_adv_auth_sg.html" target="_blank">HP Operations Orchestration Advanced Authoring Student Guide</a><br> 
 <a href="https://docs.bmc.com/docs/display/public/ars9000/Enabling+FTS+high+availability" target="_blank">Enabling FTS High Availability - BMC Remedy AR System</a><br> 
 <a href="https://docs.bmc.com/docs/display/smartIT13/Creating+and+managing+problem+investigations+in+Smart+IT" target="_blank">Creating and Managing Investigations in Smart IT</a><br> 
 <a href="https://docs.bmc.com/docs/display/itsm90/Foundation+data+onboarding+videos+and+tutorial" target="_blank">Foundation Data Onboarding Tutorial</a><br> 
