@@ -6,7 +6,7 @@ View my profiles on
 <a href="https://www.linkedin.com/in/jwagner6/" target="_blank">LinkedIn</a> and
 <a href="https://www.facebook.com/jwagnerfamily" target="_blank">Facebook</a><br>
 <a href="https://jamespwagner.github.io/samples" target="_blank">eLearning, Technical Documentation, and Video Samples</a><br>
-<a href="https://jamespwagner.github.io/James_Wagner_Resume.docx">Resume in Word format</a>
+<a href="https://jamespwagner.github.io/resume/James_Wagner_Resume.docx">Resume in Word format</a>
 
 ## Summary
 My focus is on providing great learning experiences for technical, developer, and sales audiences using a variety of modalities like eLearning, microlearning, gamification, interactive video, and documentation.
