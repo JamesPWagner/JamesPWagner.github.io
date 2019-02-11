@@ -21,7 +21,7 @@ My focus is on providing great learning experiences for technical, developer, an
 
 **Apple**, January 2019 - Present (contract)
 
-Elearning Instructional Designer and Developer supporting Apple Maps. Design and develop videos, interactive eLearning, and instructor-let training for map editors as the primary target audience. 
+Elearning Instructional Designer and Developer supporting Apple Maps. Design and develop videos, interactive eLearning, and instructor-let training for map editors and developers as the primary target audience. 
 
 **Firefall eLearning**, February 2018 – present
 
