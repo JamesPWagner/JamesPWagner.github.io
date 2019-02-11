@@ -23,6 +23,8 @@ My focus is on providing great learning experiences for technical, developer, an
 
 Elearning Instructional Designer and Developer supporting Apple Maps. Design and develop videos, interactive eLearning, and instructor-let training for map editors as the primary target audience. 
 
+**Firefall eLearning**, February 2018 – present
+
 Independent eLearning partnership currently completing a commercial, non-technical home remodeling and construction project. The project includes course development, marketing, and cloud-based infrastructure development.
 * Elearning design and development with Articulate 360 and various video and graphic arts tools 
 * Learning Management System implementation and customization built on the Moodle platform and Adaptable theme
