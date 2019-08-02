@@ -12,6 +12,7 @@ View my profiles on
 My focus is on providing great learning experiences for technical, developer, and sales audiences using a variety of modalities like eLearning, microlearning, gamification, interactive video, and documentation.
 * Interactive eLearning, video, and hands-on lab development
 * Media development tools including HTML5, Articulate Storyline, Camtasia, Adobe Captivate and others
+* Localizing eLearning and ILT content primarily for Indian, major European, and Asian learners
 * Deep knowledge of cloud and virtualization solutions including VMware, OpenStack, Kubernetes, IaaS/PaaS/SaaS/XaaS and related technologies
 * Web development in JavaScript, HTML5/CSS3, jQuery, AngularJS, and others
 * Management experience in training, documentation, and sales enablement
