@@ -35,6 +35,8 @@ Independent eLearning partnership currently completing a commercial, non-technic
 
 Developed an extensive library of technical and nontechnical eLearning courses for employees, partners, support, and customers focusing on the VMware cloud and automation platform.
 
+Localized eLearning primarily for South Asian audiences.
+
 **Completed Projects**
 
 * VMware Integrated OpenStack Fundamentals
@@ -57,6 +59,7 @@ Delivered an extensive portfolio of rich media and text-based content for BMC's 
 * Created a library of technical videos focusing on a wide range of IT Service Management topics.
 * Developed and deployed BMC’s first HTML5/jQuery-based online tutorial system.
 * Published 100+ technical documents on topics including complex solution design, security, installation/upgrade, and problem resolution.
+* Localized documentation and video content primarily for Asian and Indian audiences.
 
 **Hewlett-Packard Company**, 2007-2013, Global Field Enablement, HP Software Worldwide Sales
 
