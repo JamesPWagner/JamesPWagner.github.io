@@ -27,7 +27,7 @@ Senior Instructional Designer and Developer supporting Apple Maps. Design and de
 
 **Firefall eLearning**, February 2018 – present
 
-Independent eLearning partnership currently completing a commercial, non-technical home remodeling and construction project. The project includes course development, marketing, and cloud-based infrastructure development.
+Independent eLearning partnership focusing on home remodeling and construction.
 * Elearning design and development with Articulate 360 and various video and graphic arts tools 
 * Learning Management System implementation and customization built on the Moodle platform and Adaptable theme
 * Container-based e-commerce website hosted on AWS ECS
