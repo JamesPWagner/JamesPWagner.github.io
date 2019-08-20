@@ -42,7 +42,7 @@ Localized eLearning primarily for South Asian audiences.
 
 * VMware Integrated OpenStack Fundamentals
 * VMware Operations and Automation Management for Technical Sales
-* VMware Hyper Converged Infrastructure
+* VMware Hyper-Converged Infrastructure
 * Video: What is Solution Selling?
 * Spotlight Presentation (live webcast): Transforming Security
 * Various new product eLearning courses for technical sales and partners
