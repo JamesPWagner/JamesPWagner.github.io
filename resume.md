@@ -28,7 +28,7 @@ Senior Instructional Designer and Developer supporting Apple Maps. Design and de
 
 **Firefall eLearning**, February 2018 – present
 
-Independent eLearning partnership focusing on technical and consumer.
+Independent eLearning partnership focusing on technical and consumer courses.
 * Elearning design and development with Articulate 360 and various video and graphic arts tools 
 * Learning Management System implementation and customization built on the Moodle platform and Adaptable theme
 * Container-based e-commerce website hosted on AWS ECS
