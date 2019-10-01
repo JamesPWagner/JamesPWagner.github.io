@@ -9,7 +9,7 @@ View my profiles on
 <a href="https://jamespwagner.github.io/resume/James_Wagner_Resume.docx">Resume in Word format</a>
 
 ## Summary
-Creative Senior Instructional Designer focused on providing great learning experiences for technical, developer, sales, and consumer audiences using modalities like eLearning, microlearning, gamification, interactive video, and documentation.
+Creative Senior Instructional Designer focused on providing great content for technical, developer, sales, and consumer audiences using modalities like eLearning, microlearning, gamification, interactive video, and documentation.
 * Interactive eLearning, video, and hands-on lab development
 * Media development tools including HTML5, Articulate Storyline, Camtasia, Adobe Captivate and others
 * Localizing eLearning and ILT content primarily for Indian, major European, and Asian learners
