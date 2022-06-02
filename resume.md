@@ -30,7 +30,9 @@ Design, develop and maintain the company’s internal datacenter training and en
 
 Design and develop interactive eLearning, and instructor-led training, and videos for map editors worldwide, specializing in implementing complex lane geometry using the Apple’s proprietary global mapping platform.
 
-**VMware Inc**, October 2016 – October 2017, eLearning Course Developer (contract)
+### VMWare 
+
+October 2016 – October 2017, eLearning Course Developer (contract)
 
 Developed an extensive library of technical and nontechnical eLearning courses for employees, partners, support, and customers focusing on the VMware cloud and automation platform.
 
