@@ -18,19 +18,17 @@ View my profiles on
 
 ## Experience
 
-### Meta 
+### Meta
 
 **Content Curator**, November 2019 – present.
 
 Design, develop and maintain the company’s internal datacenter training and enablement portal, providing video, web, and eLearning content for Critical Facility Engineers, Environmental Health and Safety, Enterprise Engineering, Data Science, and other teams
- 
 
-**Firefall eLearning**, February 2018 – present
+### Apple
 
-Independent eLearning partnership focusing on technical and consumer courses.
-* Elearning design and development with Articulate 360 and various video and graphic arts tools 
-* Learning Management System implementation and customization built on the Moodle platform and Adaptable theme
-* Container-based e-commerce website hosted on AWS ECS
+**Senior Instructional Designer, Apple Maps**, January 2019 – August 2019 (contract).
+
+Design and develop interactive eLearning, and instructor-led training, and videos for map editors worldwide, specializing in implementing complex lane geometry using the Apple’s proprietary global mapping platform.
 
 **VMware Inc**, October 2016 – October 2017, eLearning Course Developer (contract)
 
