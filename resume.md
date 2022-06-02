@@ -5,26 +5,25 @@ Phone (408) 761-1299<br>
 View my profiles on 
 <a href="https://www.linkedin.com/in/jwagner6/" target="_blank">LinkedIn</a> and
 <a href="https://www.facebook.com/jwagnerfamily" target="_blank">Facebook</a><br>
-<a href="https://jamespwagner.github.io/samples" target="_blank">eLearning, Technical Documentation, and Video Samples</a><br>
+<!-- a href="https://jamespwagner.github.io/samples" target="_blank">eLearning, Technical Documentation, and Video Samples</a --><br>
 <a href="https://jamespwagner.github.io/resume/James_Wagner_Resume.docx">Resume in Word format</a>
 
-## THIS IS A TEST!!
-Creative Senior Instructional Designer focused on providing great content for technical, developer, sales, and consumer audiences using modalities like eLearning, microlearning, gamification, interactive video, and documentation.
-* Interactive eLearning, video, and hands-on lab development
-* Media development tools including HTML5, Articulate Storyline, Camtasia, Adobe Captivate and others
-* Localizing eLearning and ILT content primarily for Indian, major European, and Asian learners
-* Familiar with instructional design models including ADDIE, CRI, and others
-* Test development and certification exams
-* Deep knowledge of cloud and virtualization solutions including VMware, OpenStack, Kubernetes, IaaS/PaaS/SaaS/XaaS and related technologies
-* Web development and UX/UI design - JavaScript, HTML5/CSS3, jQuery, AngularJS, and others
-* Management experience in training, documentation, and sales enablement
-* MBA, General Management with Finance concentration
+## Summary
+* Accomplished developer of technical and sales programs for internal, partner, and customer audiences.
+* Expert at presenting complex topics in an approachable and easy-to-understand way, enabling rapid adoption and business growth.
+* At home in an entrepreneurial environment, working independently and cross-functionally to deliver fast and effective results.
+* Experience developing proctored certifications for partner, IT, and developer audiences. 
+* Familiar with modern cloud, identity, web development, and e-commerce technologies.
+* MBA, Finance Concentration.
 
 ## Experience
 
-**Apple**, under contract with Synergis IT, January 2019 - August 2019
+### Meta 
 
-Senior Instructional Designer and Developer supporting Apple Maps. Design and develop videos, interactive eLearning, and instructor-led training for map editors and developers as the primary target audience. 
+**Content Curator**, November 2019 – present.
+
+Design, develop and maintain the company’s internal datacenter training and enablement portal, providing video, web, and eLearning content for Critical Facility Engineers, Environmental Health and Safety, Enterprise Engineering, Data Science, and other teams
+ 
 
 **Firefall eLearning**, February 2018 – present
 
