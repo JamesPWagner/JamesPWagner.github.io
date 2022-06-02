@@ -18,7 +18,7 @@ View my profiles on
 
 ## Experience
 
-### Meta - 
+### Meta 
 
 **Content Curator**, November 2019 - present.
 
@@ -52,7 +52,7 @@ Delivered an extensive portfolio of rich media content for BMC's Remedy Action R
 
 ### Hewlett-Packard Company 
 
-***Global Field Enablement Program Manager, HP Software Worldwide Sales***, 2007 - 2013.
+**Global Field Enablement Program Manager, HP Software Worldwide Sales**, 2007-2013.
 
 Enabled HP's internal and partner ecosystem to market, support, and deploy the Cloud and Automation Platform. Developed a comprehensive curriculum for the datacenter orchestration platform, a tool that enabled 70 percent of HP's Business Service Automation sales. Provided ongoing consultation to partners, HP's internal R&D departments, HP IT, and customers on complex cloud-based datacenter integrations. Developed two certifications for the orchestration platform.
 
