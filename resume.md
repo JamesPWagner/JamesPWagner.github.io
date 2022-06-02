@@ -86,6 +86,5 @@ Supported Apple’s Macintosh-based Unix solution, A/UX, allowing the company to
 ## Education
 
 <b>MBA, Finance Concentration</b>, San Jose State University, 1990.<br>
-
 <b>BA Journalism and Mass Communications</b>, San Jose State University, 1980.
 
