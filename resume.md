@@ -39,7 +39,7 @@ Developed an extensive library of technical eLearning and videos for employees, 
 
 **Curriculum Developer**, March - May 2016 (contract).
 
-Short-term project to develop training for ForegeRock Identity Management partners focusing on:
+Short-term project to develop training for ForgeRock Identity Management partners focusing on:
 * User self-service features such as registration, profile update, password reset, forgotten username, and other aspects of the ForgeRock Identity Management platform.
 * Automated workflow deployment with the open-source Activiti Business Process Management tool.
 
