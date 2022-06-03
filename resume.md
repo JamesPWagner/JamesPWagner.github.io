@@ -40,8 +40,8 @@ Developed an extensive library of technical eLearning and videos for employees, 
 **Curriculum Developer**, March - May 2016 (contract).
 
 Short-term project to develop training for ForegeRock Identity Management partners focusing on:
-* Implementing user self-service features such as registration, profile update, password reset, forgotten username, and other aspects of the ForgeRock Identity Management platform.
-* Developing automated workflow design and deployment workflows with the open-source Activiti Business Process Management tool.
+* User self-service features such as registration, profile update, password reset, forgotten username, and other aspects of the ForgeRock Identity Management platform.
+* Automated workflow deployment with the open-source Activiti Business Process Management tool.
 
 ### BMC Software 
 
