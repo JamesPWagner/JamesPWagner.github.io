@@ -4,15 +4,15 @@ Phone (408) 761-1299<br>
 View my profiles on 
 <a href="https://www.linkedin.com/in/jwagner6/" target="_blank">LinkedIn</a> and
 <a href="https://www.facebook.com/jwagnerfamily" target="_blank">Facebook</a><br>
-<!-- a href="https://jamespwagner.github.io/samples" target="_blank">eLearning, Technical Documentation, and Video Samples</a --><br>
+<!-- a href="https://jamespwagner.github.io/samples" target="_blank">eLearning, Technical Documentation, and Video Samples</a -->
 <a href="https://jamespwagner.github.io/resume/James_Wagner_Resume.docx">Resume in Word format</a>
 
 ## Summary
-* Accomplished developer of technical and sales programs for internal, partner, and customer audiences.
+* Accomplished developer of technical and sales enablement programs for internal, partner, and customer audiences.
 * Expert at presenting complex topics in an approachable and easy-to-understand way, enabling rapid adoption and business growth.
 * At home in an entrepreneurial environment, working independently and cross-functionally to deliver fast and effective results.
 * Experience developing proctored certifications for partner, IT, and developer audiences. 
-* Familiar with modern cloud, identity, web development, and e-commerce technologies.
+* Recent experience with modern cloud, identity, social media, web development, and e-commerce technologies.
 * MBA, Finance Concentration.
 
 ## Experience
@@ -21,7 +21,7 @@ View my profiles on
 
 **Content Curator**, November 2019 - present.
 
-Design, develop and maintain the company’s internal datacenter training and enablement portal, providing video, web, and eLearning content for Critical Facility Engineers, Environmental Health and Safety, Enterprise Engineering, Data Science, and other teams
+Design, develop and maintain the company’s internal datacenter training and enablement portal, providing video, web, and eLearning content for Critical Facility Engineers, Environmental Health and Safety, Enterprise Engineering, Data Science, and other teams.
 
 ### Apple
 
